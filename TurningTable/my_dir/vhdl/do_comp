@@ -1,0 +1,72 @@
+#
+#
+echo "compiling all files"
+#
+rm -r work
+qhlib work
+#
+qvhcom ../src/bcd_cnt4_4_e.vhd
+qvhcom ../src/bcd_cnt4_e.vhd
+qvhcom ../src/BCD_to_ascii_e.vhd
+qvhcom ../src/brd_generator_e.vhd
+qvhcom ../src/c05ec_e1.vhd
+qvhcom ../src/c13ec_e1.vhd
+qvhcom ../src/c16ec_e1.vhd
+qvhcom ../src/c10ec_e1.vhd
+qvhcom ../src/c10xc_e1.vhd
+qvhcom ../src/Cnt3_e.vhd
+qvhcom ../src/Cnt4_e.vhd
+qvhcom ../src/debouncer_e.vhd
+qvhcom ../src/en_comp_e.vhd
+qvhcom ../src/mux4x8_e.vhd
+qvhcom ../src/mux16_txd_e.vhd
+qvhcom ../src/pulse_3s_e.vhd
+qvhcom ../src/shaper_e.vhd
+qvhcom ../src/shaper_fsm_e.vhd
+qvhcom ../src/top_level_e.vhd
+qvhcom ../src/transmission_e.vhd
+qvhcom ../src/uart_e.vhd
+
+#
+qvhcom ../src/bcd_cnt4_4_a.vhd
+qvhcom ../src/bcd_cnt4_a.vhd
+qvhcom ../src/BCD_to_ascii_a.vhd
+qvhcom ../src/brd_generator_a.vhd
+qvhcom ../src/c05ec_a1.vhd
+qvhcom ../src/c13ec_a1.vhd
+qvhcom ../src/c16ec_a1.vhd
+qvhcom ../src/c10ec_a1.vhd
+qvhcom ../src/c10xc_a.vhd
+qvhcom ../src/Cnt3_a.vhd
+qvhcom ../src/Cnt4_a.vhd
+qvhcom ../src/debouncer_a.vhd
+qvhcom ../src/en_comp_a.vhd
+qvhcom ../src/mux4x8_a.vhd
+qvhcom ../src/mux16_txd_a.vhd
+qvhcom ../src/pulse_3s_a.vhd
+qvhcom ../src/shaper_a.vhd
+qvhcom ../src/shaper_fsm_a.vhd
+qvhcom ../src/top_level_a.vhd
+qvhcom ../src/transmission_a.vhd
+qvhcom ../src/uart_a.vhd
+#
+qvhcom ../tb/TB_brd_gen_e.vhd
+qvhcom ../tb/tb_brd_gen_a.vhd
+qvhcom ../tb/tb_Cnt4_e.vhd
+qvhcom ../tb/tb_Cnt4_a.vhd
+qvhcom ../tb/TB_debouncer_e.vhd
+qvhcom ../tb/TB_debouncer_a.vhd
+qvhcom ../tb/tb_shaper_e.vhd
+qvhcom ../tb/tb_shaper_a.vhd
+qvhcom ../tb/tb_shaper_fsm_e.vhd
+qvhcom ../tb/tb_shaper_fsm_a.vhd
+qvhcom ../tb/TB_top_level_e.vhd
+qvhcom ../tb/TB_top_level_a.vhd
+qvhcom ../tb/TB_transmission_e.vhd
+qvhcom ../tb/TB_transmission_a.vhd
+qvhcom ../tb/tb_uart_ctrl_e.vhd
+qvhcom ../tb/tb_uart_ctrl_a.vhd
+#
+echo "done"
+exit
+

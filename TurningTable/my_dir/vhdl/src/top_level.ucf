@@ -1,0 +1,8 @@
+NET "rb_i" LOC="L13";
+NET "cp_i" LOC="C9";
+NET "rs_i" LOC="D7";
+NET "sw_i" LOC="L14";
+NET "sec_o" LOC="F12";
+NET "txd_o" LOC="M14";
+NET "gate_o" LOC= "E12";
+NET "rs_o" LOC= "E11";

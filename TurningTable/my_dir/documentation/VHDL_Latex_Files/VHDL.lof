@@ -1,0 +1,26 @@
+\select@language {english}
+\contentsline {figure}{\numberline {1}{\ignorespaces General Architecture of FPGA}}{1}{figure.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces General Architecture of FPGA}}{2}{figure.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces Top Level Entity}}{7}{figure.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Top Level Architecture}}{9}{figure.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces The UART bit sequence }}{10}{figure.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Debouncer Entity}}{11}{figure.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces The architecture of the debouncer}}{11}{figure.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces The timing behaviour of the shaper}}{12}{figure.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Flow chart of the shaper fsm}}{12}{figure.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces An Entity of the Baud Rate Generator}}{13}{figure.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces architecture of the Baud Rate Generator}}{14}{figure.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces The timing behaviour of the baud rate generator}}{14}{figure.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces Entity of the BCD counter}}{15}{figure.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces architecture of the BCD counter}}{15}{figure.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces Timing behaviour of the BCD counter}}{16}{figure.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces Entity of the BCD to ASCII }}{16}{figure.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces UART protocol diagram}}{17}{figure.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces Entity of the transmission block}}{18}{figure.18}
+\contentsline {figure}{\numberline {19}{\ignorespaces Architecture of the transmission block}}{18}{figure.19}
+\contentsline {figure}{\numberline {20}{\ignorespaces UART FSM}}{19}{figure.20}
+\contentsline {figure}{\numberline {21}{\ignorespaces The timing behavior of the transmission block}}{19}{figure.21}
+\contentsline {figure}{\numberline {22}{\ignorespaces C program}}{20}{figure.22}
+\contentsline {figure}{\numberline {23}{\ignorespaces Top level testbench stimulation}}{21}{figure.23}
+\contentsline {figure}{\numberline {24}{\ignorespaces Final result on gtkterm}}{22}{figure.24}
+\contentsline {figure}{\numberline {25}{\ignorespaces Final result}}{22}{figure.25}

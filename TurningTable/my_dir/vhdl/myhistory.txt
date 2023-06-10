@@ -1,0 +1,290 @@
+    1  ssh weberc@141.69.120.51
+    2  su
+    3  su
+    4  exit
+    5  ls -al /etc/skel/ >> skeleton
+    6  ls
+    7  su
+    8  echo $LM_LICENSE_FILE
+    9  /opt/modeltech/bin/vsim 
+   10  qhsim
+   11  qhlib
+   12  qvhcom
+   13  sudo tail  /var/log/messages
+   14  su
+   15  su labadmin
+   16  cd .local/
+   17  ls
+   18  cd share
+   19  ks
+   20  ls
+   21  cd applications/
+   22  ls
+   23  cd .local/
+   24  ls
+   25  cd share/
+   26  ls
+   27  cd applications/
+   28  ls
+   29  ls -l
+   30  cd ..
+   31  ls
+   32  cd ..
+   33  ls
+   34  cd Desktop/
+   35  ls
+   36  more gtkwave.desktop 
+   37  ls
+   38  more modelsim.desktop 
+   39  nano modelsim.desktop 
+   40  cd ..
+   41  ls
+   42  cd icons
+   43  ls
+   44  nano modelsim.desktop 
+   45  cd ..
+   46  cd Desktop/
+   47  ls
+   48  more modelsim.desktop 
+   49  nano modelsim.desktop 
+   50  echo $USer
+   51  echo $USER
+   52  echo $HOME
+   53  ls /opt/Xilinx/SDK/2014.4/bin/
+   54  who
+   55  who am i
+   56  whoami
+   57  ls
+   58  ls -l
+   59  exit
+   60  cp -r * /tmp/skel_ubuntu_14.04/
+   61  sudo chmod 777 /tmp/skel_ubuntu_14.04/
+   62  cp -r * /tmp/skel_ubuntu_14.04/
+   63  exit
+   64  gnome-desktop-item-edit ~/Desktop/ --create-new
+   65  vsim 
+   66  gcc
+   67  avrdude
+   68  ghdl
+   69  which ghdl
+   70  gnome-desktop-item-edit ~/Desktop/ --create-new
+   71  ls
+   72  pwd
+   73  ls
+   74  ls -all
+   75  mkdir Circuit_Design
+   76  ls -all
+   77  cd Circuit_Design/
+   78  ls
+   79  mkdir src
+   80  mkdir sim
+   81  mkdir tb
+   82  ls -all
+   83  cd src
+   84  gedit ccts.vhd
+   85  gedit ccts.vhd &
+   86  cd ..
+   87  cd sim
+   88  ls
+   89  ls ..
+   90  ls ../src
+   91  qhlib work
+   92  qvhcom ../src/ccts.vhd
+   93  qhsim
+   94  ls
+   95  cd Circuit_Design/
+   96  ls
+   97  cd src
+   98  ls
+   99  gedit ccts.vhd 
+  100  ls
+  101  cd Circuit_Design/
+  102  ls
+  103  cd Lab2
+  104  mkdir src
+  105  mkdir sim
+  106  mkdir tb
+  107  cd src
+  108  gedit zb10rb_e.vhd
+  109  cd ..
+  110  ls
+  111  cd sim
+  112  qhlib work
+  113  ls
+  114  qvhcom ../src/zb10rb_e.vhd 
+  115  cd ..
+  116  cd src
+  117  gedit zb10rb_e.vhd 
+  118  CD ..
+  119  cd sim,
+  120  cd sim
+  121  cd ..
+  122  cd sim
+  123  qvhcom ../src/zb10rb_e.vhd 
+  124  gedit
+  125  cd ..
+  126  cd src
+  127  gedit zb10rb_e.vhd 
+  128  cd ..
+  129  cd sim
+  130  qvhcom ../src/zb10rb_e.vhd 
+  131  cd ..
+  132  cd src
+  133  gedit zb10rb_e.vhd 
+  134  cd ..
+  135  cd sim
+  136  qvhcom ../src/zb10rb_e.vhd 
+  137  cd ..
+  138  cd src
+  139  gedit zb10rb_e.vhd 
+  140  cd ..
+  141  cd src
+  142  gedit zb10rb_e.vhd 
+  143  cd ..
+  144  cd sim
+  145  qvhcom ../src/zb10rb_e.vhd 
+  146  cd ..
+  147  cd src
+  148  gedit zb10rb_e.vhd 
+  149  cd ..
+  150  cd sim
+  151  qvhcom ../src/zb10rb_e.vhd 
+  152  cd ..
+  153  cd sim
+  154  gedit ../src/zb10rb_e.vhd 
+  155  qvhcom ../src/zb10rb_e.vhd 
+  156  ~~~7uuu7uls
+  157  cd ..
+  158  ls
+  159  cd src
+  160  gedit zb10rb_e.vhd 
+  161  ls
+  162  cd Circuit_Design/
+  163  ls
+  164  mkdir Lab3
+  165  ls
+  166  cd Lab3
+  167  mkdir src
+  168  mkdir sim
+  169  mkdir tb
+  170  cd src
+  171  gedit c10ec.vhd
+  172  gedit c10ec_arch.vhd
+  173  cd Circuit_Design/
+  174  cd Lab3/
+  175  ls
+  176  cd src
+  177  ls
+  178  c13ec_e2.vhd
+  179  gedit c13ec_e2.vhd
+  180  gedit c13ec_a1.vhd
+  181  cd Circuit_Design/Lab3/src/
+  182  ls
+  183  gedit c16ec_e3.vhd
+  184  gedit c16ec_a3.vhd
+  185  cd Circuit_Design/Lab3/src/
+  186  ls
+  187  ls -all
+  188  cd ..
+  189  cd sim/
+  190  qhlib work
+  191  qhsim
+  192  cd Circuit_Design/Lab3/src/
+  193  gedit c05ec_a1.vhd 
+  194  qhsim
+  195  cd Circuit_Design/
+  196  Lab3
+  197  cd Lab3/
+  198  cd src/
+  199  ls
+  200  qhsim
+  201  cd ../sim
+  202  qvhcom ../src/c05ec_a1.vhd 
+  203  qvhcom ../src/c13ec_a2.vhd 
+  204  qvhcom ../src/c16ec_a3.vhd 
+  205  qhsim
+  206  qhlib work
+  207  qvhcom ../src/c05ec_a1.vhd 
+  208  qvhcom ../src/c05ec_e1.vhd 
+  209  qvhcom ../src/c05ec_a1.vhd 
+  210  qvhcom ../src/c13ec_e1.vhd 
+  211  qvhcom ../src/c13ec_a1.vhd 
+  212  clear
+  213  qvhcom ../src/c13ec_e1.vhd 
+  214  qvhcom ../src/c05ec_e1.vhd 
+  215  qvhcom ../src/c05ec_a1.vhd 
+  216  qvhcom ../src/c13ec_a2.vhd 
+  217  qvhcom ../src/c13ec_e2.vhd 
+  218  qvhcom ../src/c16ec_e3.vhd 
+  219  qvhcom ../src/c16ec_a3.vhd 
+  220  qhsim
+  221  ls
+  222  qvhcom ../src/c16ec_a3.vhd 
+  223  vsim
+  224  qhlib work
+  225  qvhcom ../src/c16ec_a3.vhd 
+  226  vsim
+  227  cd Circuit_Design/
+  228  cd Lab3/src/
+  229  cd ../sim
+  230  qhsim
+  231  cd Circuit_Design/
+  232  cd Lab3
+  233  ls
+  234  cd src
+  235  ls
+  236  cd ..
+  237  cd sim
+  238  ls
+  239  qhlib work
+  240  qvhcom ../src/c05ec_e1.vhd
+  241  qhsim
+  242  ls
+  243  ls ../src
+  244  ls -all ../src
+  245  mv c13ec_e2.vhd c13ec_e1.vhd
+  246  cd ..
+  247  cd src
+  248  ls
+  249  mv c13ec_e2.vhd c13ec_e1.vhd
+  250  ls -all
+  251  mv c13ec_a2.vhd c13ec_a1.vhd
+  252  ls 
+  253  mv c16ec_a3.vhd c16ec_a1.vhd
+  254  mv c16ec_e3.vhd c16ec_e1.vhd
+  255  ls -allo
+  256  cd ..
+  257  ls
+  258  cd src
+  259  gedit c05ec_e1.vhd &
+  260  ls
+  261  ls -all
+  262  ls
+  263  ls -all
+  264  chmod 744 do*
+  265  ls
+  266  ls -all
+  267  cd ..
+  268  cd sim
+  269  ls
+  270  rm -r work
+  271  qhlib work
+  272  ../src/do_comp
+  273  gedit ../src/c05ec_a1.vhd &
+  274  ../src/do_comp
+  275  ../src/do_comp | grep "Errors"
+  276  qhsim
+  277  ../src/do_comp | grep "Errors"
+  278  qhsim
+  279  ../src/do_comp | grep "Errors"
+  280  qhsim
+  281  ../src/do_comp | grep "Errors"
+  282  ../src/do_comp 
+  283  ../src/do_comp | grep "Errors"
+  284  qhsim
+  285  ../src/do_comp | grep "Errors"
+  286  qhsim
+  287  ../src/do_comp | grep "Errors"
+  288  qhsim
+  289  cd ..
+  290  history > myhistory.txt

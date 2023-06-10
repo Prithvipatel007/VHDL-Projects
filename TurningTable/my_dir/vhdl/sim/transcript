@@ -1,0 +1,1890 @@
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:41 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture bcd_cnt4_4_a of bcd_cnt4_4_e
+# ** Error: (vcom-11) Could not find work.bcd_cnt4_4_e.
+# ** Error: /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_4_a.vhd(1): VHDL Compiler exiting
+# End time: 18:35:41 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_4_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:41 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity bcd_cnt4_4_e
+# End time: 18:35:41 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:41 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture bcd_cnt4_a of bcd_cnt4_e
+# ** Error: (vcom-11) Could not find work.bcd_cnt4_e.
+# ** Error: /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_a.vhd(1): VHDL Compiler exiting
+# End time: 18:35:41 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:41 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity bcd_cnt4_e
+# End time: 18:35:41 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/BCD_to_ascii_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:41 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/BCD_to_ascii_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture BCD_to_ASCII_a of BCD_to_ASCII_e
+# ** Error: (vcom-11) Could not find work.bcd_to_ascii_e.
+# ** Error: /media/md-152510/TOSHIBA/my_dir/vhdl/src/BCD_to_ascii_a.vhd(3): VHDL Compiler exiting
+# End time: 18:35:42 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/BCD_to_ascii_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:42 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/BCD_to_ascii_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity BCD_to_ASCII_e
+# End time: 18:35:42 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/brd_generator_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:42 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/brd_generator_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture brd_generator_a of brd_generator_e
+# ** Error: (vcom-11) Could not find work.brd_generator_e.
+# ** Error: /media/md-152510/TOSHIBA/my_dir/vhdl/src/brd_generator_a.vhd(1): VHDL Compiler exiting
+# End time: 18:35:42 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10xc_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:42 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10xc_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c10xc
+# End time: 18:35:42 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10xc_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:42 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10xc_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c10xc
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c10xc
+# End time: 18:35:42 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10ec_e1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:42 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c10ec
+# End time: 18:35:42 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10ec_a1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:42 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c10ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c10ec
+# End time: 18:35:42 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c05ec_e1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:42 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c05ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c05ec
+# End time: 18:35:42 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c05ec_a1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:42 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c05ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c05ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c05ec
+# End time: 18:35:43 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/brd_generator_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:43 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/brd_generator_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity brd_generator_e
+# End time: 18:35:43 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:43 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt4_e
+# ** Error: (vcom-11) Could not find work.cnt4_e.
+# ** Error: /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_a.vhd(2): VHDL Compiler exiting
+# End time: 18:35:43 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt3_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:43 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt3_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt3_e
+# End time: 18:35:43 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt3_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:43 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt3_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt3_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt3_e
+# End time: 18:35:43 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c16ec_e1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:43 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c16ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c16ec
+# End time: 18:35:43 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c16ec_a1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:43 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c16ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c16ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c16ec
+# End time: 18:35:43 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c13ec_e1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:43 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c13ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c13ec
+# End time: 18:35:43 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c13ec_a1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:43 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c13ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c13ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c13ec
+# End time: 18:35:44 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:44 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt4_e
+# ** Error: (vcom-11) Could not find work.cnt4_e.
+# ** Error: /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_a.vhd(2): VHDL Compiler exiting
+# End time: 18:35:44 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux4x8_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:44 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux4x8_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux4x8_e
+# End time: 18:35:44 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux4x8_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:44 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux4x8_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling architecture arch of mux4x8_e
+# -- Loading entity mux4x8_e
+# End time: 18:35:44 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/en_comp_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:44 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/en_comp_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity en_comp_e
+# End time: 18:35:44 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/en_comp_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:44 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/en_comp_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of en_comp_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity en_comp_e
+# End time: 18:35:44 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/debouncer_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:44 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/debouncer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity debouncer_e
+# End time: 18:35:44 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/debouncer_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:44 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/debouncer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of debouncer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity debouncer_e
+# End time: 18:35:44 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:44 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt4_e
+# End time: 18:35:44 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_fsm_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:45 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_fsm_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of shaper_fsm_e
+# ** Error: (vcom-11) Could not find work.shaper_fsm_e.
+# ** Error: /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_fsm_a.vhd(1): VHDL Compiler exiting
+# End time: 18:35:45 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:45 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity shaper_e
+# End time: 18:35:45 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:45 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch_a of shaper_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity shaper_e
+# End time: 18:35:45 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/pulse_3s_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:45 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/pulse_3s_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity pulse_3s_e
+# End time: 18:35:45 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/pulse_3s_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:45 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/pulse_3s_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of pulse_3s_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity pulse_3s_e
+# End time: 18:35:45 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux16_txd_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:45 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux16_txd_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of mux16_txd_e
+# ** Error: (vcom-11) Could not find work.mux16_txd_e.
+# ** Error: /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux16_txd_a.vhd(1): VHDL Compiler exiting
+# End time: 18:35:45 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux16_txd_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:45 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux16_txd_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux16_txd_e
+# End time: 18:35:46 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/uart_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:46 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/uart_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity uart_ctrl_e
+# End time: 18:35:46 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/uart_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:46 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/uart_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of uart_ctrl_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity uart_ctrl_e
+# End time: 18:35:46 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/transmission_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:46 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity transmission_e
+# End time: 18:35:46 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/transmission_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:46 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity transmission_e
+# End time: 18:35:46 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/top_level_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:46 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity top_level
+# End time: 18:35:46 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/top_level_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:46 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a2 of top_level
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity top_level
+# End time: 18:35:46 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_fsm_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:46 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_fsm_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity shaper_fsm_e
+# End time: 18:35:46 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:47 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture bcd_cnt4_4_a of bcd_cnt4_4_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity bcd_cnt4_4_e
+# End time: 18:35:47 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_4_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:47 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity bcd_cnt4_4_e
+# End time: 18:35:48 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:48 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture bcd_cnt4_a of bcd_cnt4_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity bcd_cnt4_e
+# End time: 18:35:48 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:48 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity bcd_cnt4_e
+# End time: 18:35:48 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/BCD_to_ascii_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:48 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/BCD_to_ascii_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture BCD_to_ASCII_a of BCD_to_ASCII_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity BCD_to_ASCII_e
+# End time: 18:35:48 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/BCD_to_ascii_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:48 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/BCD_to_ascii_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity BCD_to_ASCII_e
+# End time: 18:35:48 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/brd_generator_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:48 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/brd_generator_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture brd_generator_a of brd_generator_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity brd_generator_e
+# End time: 18:35:48 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10xc_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:48 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10xc_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c10xc
+# End time: 18:35:48 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10xc_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:48 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10xc_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c10xc
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c10xc
+# End time: 18:35:48 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10ec_e1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:48 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c10ec
+# End time: 18:35:48 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10ec_a1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:48 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c10ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c10ec
+# End time: 18:35:49 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c05ec_e1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:49 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c05ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c05ec
+# End time: 18:35:49 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c05ec_a1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:49 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c05ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c05ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c05ec
+# End time: 18:35:49 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/brd_generator_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:49 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/brd_generator_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity brd_generator_e
+# End time: 18:35:49 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:49 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt4_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt4_e
+# End time: 18:35:49 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt3_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:49 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt3_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt3_e
+# End time: 18:35:49 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt3_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:49 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt3_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt3_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt3_e
+# End time: 18:35:49 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c16ec_e1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:49 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c16ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c16ec
+# End time: 18:35:49 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c16ec_a1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:49 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c16ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c16ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c16ec
+# End time: 18:35:49 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c13ec_e1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:49 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c13ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c13ec
+# End time: 18:35:49 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c13ec_a1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:49 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c13ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c13ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c13ec
+# End time: 18:35:50 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:50 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt4_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt4_e
+# End time: 18:35:50 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux4x8_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:50 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux4x8_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux4x8_e
+# End time: 18:35:50 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux4x8_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:50 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux4x8_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling architecture arch of mux4x8_e
+# -- Loading entity mux4x8_e
+# End time: 18:35:50 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/en_comp_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:50 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/en_comp_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity en_comp_e
+# End time: 18:35:50 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/en_comp_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:50 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/en_comp_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of en_comp_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity en_comp_e
+# End time: 18:35:50 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/debouncer_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:50 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/debouncer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity debouncer_e
+# End time: 18:35:50 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/debouncer_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:50 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/debouncer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of debouncer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity debouncer_e
+# End time: 18:35:50 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:50 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt4_e
+# End time: 18:35:50 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_fsm_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:50 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_fsm_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of shaper_fsm_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity shaper_fsm_e
+# End time: 18:35:50 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:50 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity shaper_e
+# End time: 18:35:50 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:51 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch_a of shaper_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity shaper_e
+# End time: 18:35:51 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/pulse_3s_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:51 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/pulse_3s_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity pulse_3s_e
+# End time: 18:35:51 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/pulse_3s_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:51 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/pulse_3s_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of pulse_3s_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity pulse_3s_e
+# End time: 18:35:51 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux16_txd_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:51 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux16_txd_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of mux16_txd_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity mux16_txd_e
+# End time: 18:35:51 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux16_txd_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:51 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux16_txd_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux16_txd_e
+# End time: 18:35:51 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/uart_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:51 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/uart_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity uart_ctrl_e
+# End time: 18:35:51 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/uart_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:51 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/uart_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of uart_ctrl_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity uart_ctrl_e
+# End time: 18:35:51 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/transmission_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:51 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity transmission_e
+# End time: 18:35:51 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/transmission_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:51 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity transmission_e
+# End time: 18:35:51 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/top_level_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:51 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity top_level
+# End time: 18:35:52 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/top_level_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:52 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a2 of top_level
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity top_level
+# End time: 18:35:52 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_fsm_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:52 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_fsm_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity shaper_fsm_e
+# End time: 18:35:52 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:53 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture bcd_cnt4_4_a of bcd_cnt4_4_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity bcd_cnt4_4_e
+# End time: 18:35:53 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_4_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:53 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity bcd_cnt4_4_e
+# End time: 18:35:53 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:53 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture bcd_cnt4_a of bcd_cnt4_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity bcd_cnt4_e
+# End time: 18:35:53 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:53 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/bcd_cnt4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity bcd_cnt4_e
+# End time: 18:35:53 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/BCD_to_ascii_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:53 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/BCD_to_ascii_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture BCD_to_ASCII_a of BCD_to_ASCII_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity BCD_to_ASCII_e
+# End time: 18:35:53 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/BCD_to_ascii_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:53 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/BCD_to_ascii_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity BCD_to_ASCII_e
+# End time: 18:35:53 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/brd_generator_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:53 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/brd_generator_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture brd_generator_a of brd_generator_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity brd_generator_e
+# End time: 18:35:53 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10xc_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:53 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10xc_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c10xc
+# End time: 18:35:53 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10xc_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:53 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10xc_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c10xc
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c10xc
+# End time: 18:35:53 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10ec_e1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:53 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c10ec
+# End time: 18:35:54 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10ec_a1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:54 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c10ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c10ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c10ec
+# End time: 18:35:54 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c05ec_e1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:54 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c05ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c05ec
+# End time: 18:35:54 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c05ec_a1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:54 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c05ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c05ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c05ec
+# End time: 18:35:54 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/brd_generator_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:54 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/brd_generator_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity brd_generator_e
+# End time: 18:35:54 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:54 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt4_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt4_e
+# End time: 18:35:54 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt3_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:54 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt3_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt3_e
+# End time: 18:35:54 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt3_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:54 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt3_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt3_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt3_e
+# End time: 18:35:54 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c16ec_e1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:54 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c16ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c16ec
+# End time: 18:35:54 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c16ec_a1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:54 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c16ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c16ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c16ec
+# End time: 18:35:54 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c13ec_e1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:54 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c13ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c13ec
+# End time: 18:35:54 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c13ec_a1.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:55 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/c13ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c13ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c13ec
+# End time: 18:35:55 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:55 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt4_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt4_e
+# End time: 18:35:55 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux4x8_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:55 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux4x8_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux4x8_e
+# End time: 18:35:55 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux4x8_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:55 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux4x8_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling architecture arch of mux4x8_e
+# -- Loading entity mux4x8_e
+# End time: 18:35:55 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/en_comp_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:55 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/en_comp_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity en_comp_e
+# End time: 18:35:55 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/en_comp_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:55 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/en_comp_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of en_comp_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity en_comp_e
+# End time: 18:35:55 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/debouncer_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:55 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/debouncer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity debouncer_e
+# End time: 18:35:55 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/debouncer_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:55 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/debouncer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of debouncer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity debouncer_e
+# End time: 18:35:55 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:55 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/Cnt4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt4_e
+# End time: 18:35:55 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_fsm_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:55 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_fsm_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of shaper_fsm_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity shaper_fsm_e
+# End time: 18:35:56 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:56 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity shaper_e
+# End time: 18:35:56 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:56 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch_a of shaper_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity shaper_e
+# End time: 18:35:56 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/pulse_3s_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:56 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/pulse_3s_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity pulse_3s_e
+# End time: 18:35:56 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/pulse_3s_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:56 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/pulse_3s_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of pulse_3s_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity pulse_3s_e
+# End time: 18:35:56 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux16_txd_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:56 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux16_txd_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of mux16_txd_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity mux16_txd_e
+# End time: 18:35:56 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux16_txd_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:56 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/mux16_txd_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux16_txd_e
+# End time: 18:35:56 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/uart_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:56 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/uart_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity uart_ctrl_e
+# End time: 18:35:56 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/uart_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:56 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/uart_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of uart_ctrl_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity uart_ctrl_e
+# End time: 18:35:56 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/transmission_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:56 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity transmission_e
+# End time: 18:35:56 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/transmission_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:56 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity transmission_e
+# End time: 18:35:57 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/top_level_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:57 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity top_level
+# End time: 18:35:57 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/top_level_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:57 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a2 of top_level
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity top_level
+# End time: 18:35:57 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_fsm_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:35:57 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/src/shaper_fsm_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity shaper_fsm_e
+# End time: 18:35:57 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_brd_gen_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:15 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_brd_gen_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of TB_brd_gen
+# ** Error: (vcom-11) Could not find work.tb_brd_gen.
+# ** Error: /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_brd_gen_a.vhd(1): VHDL Compiler exiting
+# End time: 18:36:15 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_brd_gen_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:15 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_brd_gen_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_brd_gen
+# End time: 18:36:15 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:15 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd 
+# -- Loading package STANDARD
+# ** Error: /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd(1): near "IF": (vcom-1576) expecting IS.
+# End time: 18:36:15 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:15 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_Cnt4_e
+# End time: 18:36:16 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_debouncer_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:16 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_debouncer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of TB_debouncer_e
+# ** Error: (vcom-11) Could not find work.tb_debouncer_e.
+# ** Error: /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_debouncer_a.vhd(1): VHDL Compiler exiting
+# End time: 18:36:16 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_debouncer_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:16 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_debouncer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_debouncer_e
+# End time: 18:36:16 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:16 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of tb_shaper_e
+# ** Error: (vcom-11) Could not find work.tb_shaper_e.
+# ** Error: /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_a.vhd(1): VHDL Compiler exiting
+# End time: 18:36:16 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_transmission_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:16 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_transmission_e
+# End time: 18:36:16 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_transmission_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:16 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of TB_transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_transmission_e
+# -- Loading entity transmission_e
+# End time: 18:36:17 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_top_level_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:17 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_top_level
+# End time: 18:36:17 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_top_level_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:17 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of TB_top_level
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_top_level
+# -- Loading entity top_level
+# End time: 18:36:17 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_fsm_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:17 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_fsm_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_shaper_fsm_e
+# End time: 18:36:17 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_fsm_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:17 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_fsm_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of tb_shaper_fsm_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_shaper_fsm_e
+# -- Loading entity shaper_fsm_e
+# End time: 18:36:17 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:17 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_shaper_e
+# End time: 18:36:17 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_uart_ctrl_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:17 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_uart_ctrl_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_uart_ctrl_fsm_e
+# End time: 18:36:17 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_uart_ctrl_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:17 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_uart_ctrl_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of tb_uart_ctrl_fsm_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_uart_ctrl_fsm_e
+# -- Loading entity uart_ctrl_e
+# End time: 18:36:17 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_brd_gen_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:19 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_brd_gen_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of TB_brd_gen
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_brd_gen
+# -- Loading entity brd_generator_e
+# End time: 18:36:19 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_brd_gen_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:19 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_brd_gen_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_brd_gen
+# End time: 18:36:19 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:19 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd 
+# -- Loading package STANDARD
+# ** Error: /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd(1): near "IF": (vcom-1576) expecting IS.
+# End time: 18:36:19 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:19 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_Cnt4_e
+# End time: 18:36:19 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_debouncer_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:19 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_debouncer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of TB_debouncer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_debouncer_e
+# -- Loading entity debouncer_e
+# End time: 18:36:19 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_debouncer_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:19 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_debouncer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_debouncer_e
+# End time: 18:36:19 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:19 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of tb_shaper_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_shaper_e
+# -- Loading entity shaper_e
+# End time: 18:36:20 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_transmission_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:20 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_transmission_e
+# End time: 18:36:20 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_transmission_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:20 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of TB_transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_transmission_e
+# -- Loading entity transmission_e
+# End time: 18:36:20 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_top_level_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:20 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_top_level
+# End time: 18:36:20 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_top_level_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:20 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of TB_top_level
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_top_level
+# -- Loading entity top_level
+# End time: 18:36:20 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_fsm_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:20 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_fsm_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_shaper_fsm_e
+# End time: 18:36:20 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_fsm_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:20 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_fsm_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of tb_shaper_fsm_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_shaper_fsm_e
+# -- Loading entity shaper_fsm_e
+# End time: 18:36:20 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:20 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_shaper_e
+# End time: 18:36:20 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_uart_ctrl_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:20 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_uart_ctrl_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_uart_ctrl_fsm_e
+# End time: 18:36:20 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_uart_ctrl_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:20 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_uart_ctrl_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of tb_uart_ctrl_fsm_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_uart_ctrl_fsm_e
+# -- Loading entity uart_ctrl_e
+# End time: 18:36:20 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_brd_gen_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:21 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_brd_gen_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of TB_brd_gen
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_brd_gen
+# -- Loading entity brd_generator_e
+# End time: 18:36:21 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_brd_gen_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:21 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_brd_gen_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_brd_gen
+# End time: 18:36:21 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:21 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd 
+# -- Loading package STANDARD
+# ** Error: /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd(1): near "IF": (vcom-1576) expecting IS.
+# End time: 18:36:22 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:22 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_Cnt4_e
+# End time: 18:36:22 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_debouncer_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:22 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_debouncer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of TB_debouncer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_debouncer_e
+# -- Loading entity debouncer_e
+# End time: 18:36:22 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_debouncer_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:22 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_debouncer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_debouncer_e
+# End time: 18:36:22 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:22 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of tb_shaper_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_shaper_e
+# -- Loading entity shaper_e
+# End time: 18:36:22 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_transmission_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:22 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_transmission_e
+# End time: 18:36:22 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_transmission_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:22 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of TB_transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_transmission_e
+# -- Loading entity transmission_e
+# End time: 18:36:22 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_top_level_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:22 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/TB_top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_top_level
+# End time: 18:36:22 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_top_level_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:22 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of TB_top_level
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_top_level
+# -- Loading entity top_level
+# End time: 18:36:23 on Jan 24,2018, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_fsm_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:23 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_fsm_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_shaper_fsm_e
+# End time: 18:36:23 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_fsm_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:23 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_fsm_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of tb_shaper_fsm_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_shaper_fsm_e
+# -- Loading entity shaper_fsm_e
+# End time: 18:36:23 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:23 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_shaper_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_shaper_e
+# End time: 18:36:23 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_uart_ctrl_e.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:23 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_uart_ctrl_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_uart_ctrl_fsm_e
+# End time: 18:36:23 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_uart_ctrl_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:36:23 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_uart_ctrl_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of tb_uart_ctrl_fsm_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_uart_ctrl_fsm_e
+# -- Loading entity uart_ctrl_e
+# End time: 18:36:23 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:37:54 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd 
+# -- Loading package STANDARD
+# ** Error: /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd(1): near "IF": (vcom-1576) expecting IS.
+# End time: 18:37:54 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:38:13 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture tb_Cnt4_a of tb_Cnt4_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_Cnt4_e
+# -- Loading entity bcd_cnt4_4_e
+# End time: 18:38:13 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd
+# Model Technology ModelSim DE vcom 10.6c Compiler 2017.07 Jul 25 2017
+# Start time: 18:38:15 on Jan 24,2018
+# vcom -reportprogress 300 -work work /media/md-152510/TOSHIBA/my_dir/vhdl/tb/tb_Cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture tb_Cnt4_a of tb_Cnt4_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_Cnt4_e
+# -- Loading entity bcd_cnt4_4_e
+# End time: 18:38:15 on Jan 24,2018, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0

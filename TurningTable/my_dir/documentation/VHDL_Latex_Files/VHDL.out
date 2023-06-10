@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{Doc-Start}{List of Figures}{}% 1
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 2
+\BOOKMARK [2][-]{subsection.1.1}{Introduction to FPGA }{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.2}{Introduction to the hardware used for the Project}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.3}{Information about VHDL}{section.1}% 5
+\BOOKMARK [1][-]{section.2}{GUIDELINES AND REQUIREMENT}{}% 6
+\BOOKMARK [2][-]{subsection.2.1}{Design Guidelines}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.2}{Requirements}{section.2}% 8
+\BOOKMARK [1][-]{section.3}{CIRCUIT DESIGNING WITH VHDL}{}% 9
+\BOOKMARK [2][-]{subsection.3.1}{Top Level Block Diagram Entity}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.2}{Top level block diagram Architecture}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.3}{Debouncer}{section.3}% 12
+\BOOKMARK [2][-]{subsection.3.4}{Baud Rate Generator\(brd\137generator\)}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.5}{BCD counter}{section.3}% 14
+\BOOKMARK [2][-]{subsection.3.6}{BCD to ASCII conversion}{section.3}% 15
+\BOOKMARK [2][-]{subsection.3.7}{Transmission \(UART\)}{section.3}% 16
+\BOOKMARK [2][-]{subsection.3.8}{Output on PC}{section.3}% 17
+\BOOKMARK [2][-]{subsection.3.9}{System Active LED}{section.3}% 18
+\BOOKMARK [2][-]{subsection.3.10}{Baud Rate Generator}{section.3}% 19
+\BOOKMARK [1][-]{section.4}{Test and Debug}{}% 20
+\BOOKMARK [1][-]{figure.25}{References}{}% 21

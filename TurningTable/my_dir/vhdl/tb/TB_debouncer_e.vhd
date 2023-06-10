@@ -1,0 +1,6 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+
+ENTITY TB_debouncer_e IS 
+END TB_debouncer_e;
+
