@@ -1,0 +1,13 @@
+\babel@toc {english}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces General Architecture of FPGA}}{1}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Three wire Interface}}{2}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Arduino Microcontroller}}{2}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces Earphone}}{2}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces Top Level Entity}}{5}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces Top Level Architecture}}{7}{figure.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces ifx Entity}}{8}{figure.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Baudrate Generator Entity}}{8}{figure.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces uat Entity}}{9}{figure.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces snd Entity}}{9}{figure.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces The architecture of the Sound Component}}{10}{figure.11}%
+\contentsline {figure}{\numberline {12}{\ignorespaces The Finite State Machine of the Sound Component}}{11}{figure.12}%

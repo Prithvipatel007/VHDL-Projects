@@ -1,0 +1,78 @@
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+#-- filename: 00_compile-uat, last modified: 2021-1202
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+#-- GHDL-cmds:        ghdl -s xxx.vhd  : Syntax check
+#--                   ghdl -a xxx.vhd  : Assembles file xxx.vhd
+#--                   ghdl -e xyz      : Elaborates xyz, no packages
+#-- prepare waveform: ghdl -r xxx_TB1 --wave=xxx.ghw
+#-- show waveform:    gtkwave xxx.ghw
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+#  ghdl -s ./uat_pack.vhd   #
+#  ghdl -a ./uat_pack.vhd   #
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+  ghdl -s ./reg08_e.vhd     # syntax check, entity
+  ghdl -a ./reg08_e.vhd     # assemble entity 
+  ghdl -s ./reg08_a1.vhd    # syntax check, architecture
+  ghdl -a ./reg08_a1.vhd    # assemble architecture
+  ghdl -e   reg08           # elaborate architecture
+  echo "==> reg08 done"
+#-- --------------------------------------------------------------------
+  ghdl -s ./sel81_e.vhd     # syntax check, entity
+  ghdl -a ./sel81_e.vhd     # assemble entity
+  ghdl -s ./sel81_a1.vhd    # syntax check, architecture
+  ghdl -a ./sel81_a1.vhd    # assemble architecture
+  echo "==> sel81 done"
+#-- --------------------------------------------------------------------
+  ghdl -s ./sel11_e.vhd     # syntax check, entity
+  ghdl -a ./sel11_e.vhd     # assemble entity
+  ghdl -s ./sel11_a1.vhd    # syntax check, architecture
+  ghdl -a ./sel11_a1.vhd    # assemble architecture
+  echo "==> sel11 done"
+#-- --------------------------------------------------------------------
+  ghdl -s ./c16ecl_e.vhd    # syntax check, entity
+  ghdl -a ./c16ecl_e.vhd    # assemble entity
+  ghdl -s ./c16ecl_a1.vhd   # syntax check, architecture
+  ghdl -a ./c16ecl_a1.vhd   # assemble architecture
+  echo "==> c16ecl done"
+#-- --------------------------------------------------------------------
+  ghdl -s ./uat_fsm_e.vhd   # syntax check, entity
+  ghdl -a ./uat_fsm_e.vhd   # assemble entity
+  ghdl -s ./uat_fsm_a1.vhd  # syntax check, architecture
+  ghdl -a ./uat_fsm_a1.vhd  # assemble architecture
+  ghdl -e   uat_fsm         # elaborate architecture
+  echo "==> uat_fsm done"
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+  ghdl -s ./uat_e.vhd       # syntax check, entity
+  ghdl -a ./uat_e.vhd       # assemble entity
+  ghdl -s ./uat_a1.vhd      # syntax check, architecture
+  ghdl -a ./uat_a1.vhd      # assemble architecture
+  ghdl -e   uat             # elaborate architecture
+  echo "==> uat done"
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+  echo "===> next: compiling a waveform-example"
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+  ghdl -s ./uat_tb1.vhd     # syntax check, entity and architecture
+  ghdl -a ./uat_tb1.vhd     # assemble
+  ghdl -e   uat_tb1         # elaborate
+  echo ""
+  echo " ===> syntax,assembly,elaboration of uat_tb1: done"
+#-- --------------------------------------------------------------------
+
+  ghdl -r uat_tb1 --wave=xxx_wave.ghw
+  echo " ===> wave-preparation done"
+#-- --------------------------------------------------------------------
+  echo " ===> starting gtkwave"
+  echo ""
+  gtkwave xxx_wave.ghw
+#-- --------------------------------------------------------------------
+  echo " ===> gtkwave done"
+#
+  exit
+

@@ -1,0 +1,18 @@
+Fitter Status : Successful - Sun Jun 19 21:12:09 2022
+Quartus Prime Version : 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+Revision Name : top_level_reception_e
+Top-level Entity Name : top_level_reception_e
+Family : MAX 10
+Device : 10M16SCU324C8G
+Timing Models : Final
+Total logic elements : 5,518 / 15,840 ( 35 % )
+    Total combinational functions : 3,562 / 15,840 ( 22 % )
+    Dedicated logic registers : 4,261 / 15,840 ( 27 % )
+Total registers : 4261
+Total pins : 6 / 246 ( 2 % )
+Total virtual pins : 0
+Total memory bits : 0 / 562,176 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 90 ( 0 % )
+Total PLLs : 0 / 1 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0

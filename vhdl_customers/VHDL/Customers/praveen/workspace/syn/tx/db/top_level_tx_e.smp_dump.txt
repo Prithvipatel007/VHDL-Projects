@@ -1,0 +1,26 @@
+
+State Machine - |top_level_tx_e|transmission_e:transmission_l|current_state_s
+Name current_state_s.stop_st current_state_s.bit_0_st current_state_s.bit_1_st current_state_s.bit_2_st current_state_s.bit_3_st current_state_s.bit_4_st current_state_s.bit_5_st current_state_s.bit_6_st current_state_s.bit_7_st current_state_s.start_st current_state_s.idle_st 
+current_state_s.idle_st 0 0 0 0 0 0 0 0 0 0 0 
+current_state_s.start_st 0 0 0 0 0 0 0 0 0 1 1 
+current_state_s.bit_7_st 0 0 0 0 0 0 0 0 1 0 1 
+current_state_s.bit_6_st 0 0 0 0 0 0 0 1 0 0 1 
+current_state_s.bit_5_st 0 0 0 0 0 0 1 0 0 0 1 
+current_state_s.bit_4_st 0 0 0 0 0 1 0 0 0 0 1 
+current_state_s.bit_3_st 0 0 0 0 1 0 0 0 0 0 1 
+current_state_s.bit_2_st 0 0 0 1 0 0 0 0 0 0 1 
+current_state_s.bit_1_st 0 0 1 0 0 0 0 0 0 0 1 
+current_state_s.bit_0_st 0 1 0 0 0 0 0 0 0 0 1 
+current_state_s.stop_st 1 0 0 0 0 0 0 0 0 0 1 
+
+State Machine - |top_level_tx_e|morse_ascii_e:morse_reception_l|current_state_s
+Name current_state_s.data_valid_st current_state_s.res_dash_st current_state_s.wait_dash_st current_state_s.res_dot_st current_state_s.check_dot_st current_state_s.check_dot_h_st current_state_s.wait_dot_st current_state_s.wait_next_st current_state_s.idle_st 
+current_state_s.idle_st 0 0 0 0 0 0 0 0 0 
+current_state_s.wait_next_st 0 0 0 0 0 0 0 1 1 
+current_state_s.wait_dot_st 0 0 0 0 0 0 1 0 1 
+current_state_s.check_dot_h_st 0 0 0 0 0 1 0 0 1 
+current_state_s.check_dot_st 0 0 0 0 1 0 0 0 1 
+current_state_s.res_dot_st 0 0 0 1 0 0 0 0 1 
+current_state_s.wait_dash_st 0 0 1 0 0 0 0 0 1 
+current_state_s.res_dash_st 0 1 0 0 0 0 0 0 1 
+current_state_s.data_valid_st 1 0 0 0 0 0 0 0 1 

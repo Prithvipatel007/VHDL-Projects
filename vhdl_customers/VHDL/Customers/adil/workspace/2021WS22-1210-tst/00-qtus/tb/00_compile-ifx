@@ -1,0 +1,58 @@
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+#-- filename: 00_compile-ifx, last modified: 2021-1202
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+#-- GHDL-cmds:        ghdl -s xxx.vhd  : Syntax check
+#--                   ghdl -a xxx.vhd  : Assembles file xxx.vhd
+#--                   ghdl -e xyz      : Elaborates xyz, no packages
+#-- prepare waveform: ghdl -r xxx_TB1 --wave=xxx.ghw
+#-- show waveform:    gtkwave xxx.ghw
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+# ghdl -s ./ifx_pack.vhd
+# ghdl -a ./ifx_pack.vhd
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+  ghdl -s ./sr08e_e.vhd    # syntax check, entity
+  ghdl -a ./sr08e_e.vhd    # assemble entity
+  ghdl -s ./sr08e_a1.vhd   # syntax check, architecture
+  ghdl -a ./sr08e_a1.vhd   # assemble architecture
+  echo "==> sr08e done"
+#-- --------------------------------------------------------------------
+  ghdl -s ./ifx_fsm_e.vhd  # syntax check, entity
+  ghdl -a ./ifx_fsm_e.vhd  # assemble entity
+  ghdl -s ./ifx_fsm_a1.vhd # syntax check, architecture
+  ghdl -a ./ifx_fsm_a1.vhd # assemble architecture
+  ghdl -e   ifx_fsm        # elaborate architecture
+  echo "==> ifx_fsm done"
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+  ghdl -s ./ifx_e.vhd      # syntax check, entity
+  ghdl -a ./ifx_e.vhd      # assemble entity
+  ghdl -s ./ifx_a1.vhd     # syntax check, architecture
+  ghdl -a ./ifx_a1.vhd     # assemble architecture
+  ghdl -e   ifx            # elaborate architecture
+  echo "==> ifx done"
+
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+  echo " "
+  echo "==> next: compiling a waveform-example"
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+  ghdl -s ./ifx_tb1.vhd    # syntax check, entity and architecture
+  ghdl -a ./ifx_tb1.vhd    # assemble
+  ghdl -e   ifx_tb1        # elaborate
+  echo "==> syntax,assembly,elaboration of ifx_tb1: done"
+#-- --------------------------------------------------------------------
+  ghdl -r ifx_tb1 --wave=xxx_wave.ghw
+  echo "==> wave-preparation done"
+#-- --------------------------------------------------------------------
+  echo "==> starting gtkwave"
+  gtkwave xxx_wave.ghw
+#-- --------------------------------------------------------------------
+  echo "==> gtkwave done"
+#
+  exit
+

@@ -1,0 +1,184 @@
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+#-- filename: 00_do_ghdl, last modified: 2021-1208
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+#-- GHDL-cmds:        ghdl -s xxx.vhd  : Syntax check
+#--                   ghdl -a xxx.vhd  : Assembles file xxx.vhd
+#--                   ghdl -e xyz      : Elaborates xyz, no packages
+#-- prepare waveform: ghdl -r xxx_TB1 --wave=xxx.ghw
+#-- show waveform:    gtkwave xxx.ghw
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+  ghdl -s ../src/is21WS22_pack.vhd
+  ghdl -a ../src/is21WS22_pack.vhd
+#-- --------------------------------------------------------------------
+#-- ifx-components
+#-- --------------------------------------------------------------------
+  ghdl -s ../src/sr08e_e.vhd    # syntax check, entity
+  ghdl -a ../src/sr08e_e.vhd    # assemble entity
+  ghdl -s ../src/sr08e_a1.vhd   # syntax check, architecture
+  ghdl -a ../src/sr08e_a1.vhd   # assemble architecture
+  ghdl -e   sr08e               # elaborate architecture
+  echo "==> sr08e     done"
+#-- --------------------------------------------------------------------
+  ghdl -s ../src/ifx_fsm_e.vhd  # syntax check, entity
+  ghdl -a ../src/ifx_fsm_e.vhd  # assemble entity
+  ghdl -s ../src/ifx_fsm_a1.vhd # syntax check, architecture
+  ghdl -a ../src/ifx_fsm_a1.vhd # assemble architecture
+  ghdl -e   ifx_fsm             # elaborate architecture
+  echo "==> ifx_fsm   done"
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+  ghdl -s ../src/ifx_e.vhd      # syntax check, entity
+  ghdl -a ../src/ifx_e.vhd      # assemble entity
+  ghdl -s ../src/ifx_a1.vhd     # syntax check, architecture
+  ghdl -a ../src/ifx_a1.vhd     # assemble architecture
+  ghdl -e   ifx                 # elaborate architecture
+  echo "==> ifx       done <==="
+
+#-- -------------------------------------------------------------------
+#-- brg-components
+#-- -------------------------------------------------------------------
+  ghdl -s ../src/c05xc_e.vhd    # syntax check, entity
+  ghdl -a ../src/c05xc_e.vhd    # assemble entity
+#
+  ghdl -s ../src/c05xc_a1.vhd   # syntax check, architecture
+  ghdl -a ../src/c05xc_a1.vhd   # assemble architecture
+#
+# ghdl -s ../src/c05xc_a2.vhd   # syntax check, architecture
+# ghdl -a ../src/c05xc_a2.vhd   # assemble architecture
+  ghdl -e   c05xc               # elaborate architecture
+  echo "==> c05xc     done"
+#-- -------------------------------------------------------------------
+  ghdl -s ../src/c05ec_e.vhd    # syntax check, entity
+  ghdl -a ../src/c05ec_e.vhd    # assemble entity
+  ghdl -s ../src/c05ec_a1.vhd   # syntax check, architecture
+  ghdl -a ../src/c05ec_a1.vhd   # assemble architecture
+  ghdl -e   c05ec               # elaborate architecture
+  echo "==> c05ec     done"
+#-- -------------------------------------------------------------------
+  ghdl -s ../src/c10ec_e.vhd    # syntax check, entity
+  ghdl -a ../src/c10ec_e.vhd    # assemble entity
+  ghdl -s ../src/c10ec_a1.vhd   # syntax check, architecture
+  ghdl -a ../src/c10ec_a1.vhd   # assemble architecture
+  ghdl -e   c10ec               # elaborate architecture
+  echo "==> c10ec     done"
+#-- -------------------------------------------------------------------
+  ghdl -s ../src/c16ec_e.vhd    # syntax check, entity
+  ghdl -a ../src/c16ec_e.vhd    # assemble entity
+  ghdl -s ../src/c16ec_a1.vhd   # syntax check, architecture
+  ghdl -a ../src/c16ec_a1.vhd   # assemble architecture
+  ghdl -e   c16ec               # elaborate architecture
+  echo "==> c16ec     done"
+#-- -------------------------------------------------------------------
+  ghdl -s ../src/c06eqc_e.vhd   # syntax check, entity
+  ghdl -a ../src/c06eqc_e.vhd   # assemble entity
+  ghdl -s ../src/c06eqc_a1.vhd  # syntax check, architecture
+  ghdl -a ../src/c06eqc_a1.vhd  # assemble architecture
+  ghdl -e   c06eqc              # elaborate architecture
+  echo "==> c06eqc    done"
+#-- -------------------------------------------------------------------
+  ghdl -s ../src/brg_e.vhd      # syntax check, entity
+  ghdl -a ../src/brg_e.vhd      # assemble entity
+  ghdl -s ../src/brg_a1.vhd     # syntax check, architecture
+  ghdl -a ../src/brg_a1.vhd     # assemble architecture
+  ghdl -e   brg                 # elaborate architecture
+  echo "==> brg       done <==="
+  
+#-- --------------------------------------------------------------------
+# uat-components
+#-- --------------------------------------------------------------------
+  ghdl -s ../src/reg08_e.vhd     # syntax check, entity
+  ghdl -a ../src/reg08_e.vhd     # assemble entity 
+  ghdl -s ../src/reg08_a1.vhd    # syntax check, architecture
+  ghdl -a ../src/reg08_a1.vhd    # assemble architecture
+  ghdl -e   reg08                # elaborate architecture
+  echo "==> reg08     done"
+#-- --------------------------------------------------------------------
+  ghdl -s ../src/sel81_e.vhd     # syntax check, entity
+  ghdl -a ../src/sel81_e.vhd     # assemble entity
+  ghdl -s ../src/sel81_a1.vhd    # syntax check, architecture
+  ghdl -a ../src/sel81_a1.vhd    # assemble architecture
+  ghdl -e   sel81                # elaborate architecture
+  echo "==> sel81     done"
+#-- --------------------------------------------------------------------
+  ghdl -s ../src/sel11_e.vhd     # syntax check, entity
+  ghdl -a ../src/sel11_e.vhd     # assemble entity
+  ghdl -s ../src/sel11_a1.vhd    # syntax check, architecture
+  ghdl -a ../src/sel11_a1.vhd    # assemble architecture
+  ghdl -e   sel11                # elaborate architecture
+  echo "==> sel11     done"
+#-- --------------------------------------------------------------------
+  ghdl -s ../src/c16ecl_e.vhd    # syntax check, entity
+  ghdl -a ../src/c16ecl_e.vhd    # assemble entity
+  ghdl -s ../src/c16ecl_a1.vhd   # syntax check, architecture
+  ghdl -a ../src/c16ecl_a1.vhd   # assemble architecture
+  ghdl -e   c16ecl               # elaborate architecture
+  echo "==> c16ecl    done"
+#-- --------------------------------------------------------------------
+  ghdl -s ../src/uat_fsm_e.vhd   # syntax check, entity
+  ghdl -a ../src/uat_fsm_e.vhd   # assemble entity
+  ghdl -s ../src/uat_fsm_a1.vhd  # syntax check, architecture
+  ghdl -a ../src/uat_fsm_a1.vhd  # assemble architecture
+  ghdl -e   uat_fsm              # elaborate architecture
+  echo "==> uat_fsm   done"
+#-- --------------------------------------------------------------------
+  ghdl -s ../src/uat_e.vhd       # syntax check, entity
+  ghdl -a ../src/uat_e.vhd       # assemble entity
+  ghdl -s ../src/uat_a1.vhd      # syntax check, architecture
+  ghdl -a ../src/uat_a1.vhd      # assemble architecture
+  ghdl -e   uat                  # elaborate architecture
+  echo "==> uat       done <==="
+  
+#-- --------------------------------------------------------------------
+#-- snd-components
+#-- --------------------------------------------------------------------
+  ghdl -s ../src/snd_e.vhd       # syntax check, entity
+  ghdl -a ../src/snd_e.vhd       # assemble entity
+  ghdl -s ../src/snd_a1.vhd      # syntax check, architecture
+  ghdl -a ../src/snd_a1.vhd      # assemble architecture
+  ghdl -e   snd                  # elaborate architecture
+  echo "==> snd       done <==="
+  
+#-- --------------------------------------------------------------------
+#-- top-level-components
+#-- --------------------------------------------------------------------
+  ghdl -s ../src/top_e.vhd        # syntax check, entity
+  ghdl -a ../src/top_e.vhd        # assemble entity
+# ghdl -s ../src/top_ghdl.vhd     # syntax check, architecture
+# ghdl -a ../src/top_ghdl.vhd     # assemble architecture
+  ghdl -s ../src/top_qtus.vhd     # syntax check, architecture
+  ghdl -a ../src/top_qtus.vhd     # assemble architecture
+  ghdl -e   top                   # elaborate architecture
+  echo "==> top       done <==="
+  
+exit
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+  echo "======================================"
+  echo "==> next: compiling a waveform-example"
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+  ghdl -s ../tb/top_tb1.vhd     # syntax check, entity and architecture
+  ghdl -a ../tb/top_tb1.vhd     # assemble
+  ghdl -e       top_tb1         # elaborate
+  echo "======================================"
+  echo "===> top_rb1 : waveform         : done"
+  
+#-- --------------------------------------------------------------------
+  ghdl -r top_tb1 --wave=xxx_wave.ghw
+  echo "===> top_tb1 : wave-preparation : done"
+
+#-- --------------------------------------------------------------------
+  echo "===> starting gtkwave"
+  echo ""
+  gtkwave xxx_wave.ghw
+#-- --------------------------------------------------------------------
+  echo " ===> gtkwave done"
+#
+  exit
+
+#-- --------------------------------------------------------------------
+#-- --------------------------------------------------------------------
+

@@ -1,0 +1,4 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+
+ENTITY tb_timer_e IS END tb_timer_e;

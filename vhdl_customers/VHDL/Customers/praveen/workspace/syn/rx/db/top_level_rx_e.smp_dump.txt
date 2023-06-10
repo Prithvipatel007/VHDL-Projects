@@ -1,0 +1,17 @@
+
+State Machine - |top_level_rx_e|ascii_morse_e:ascii_morse_l|current_state_s
+Name current_state_s.hold_st current_state_s.set_dash_st current_state_s.set_dot_st current_state_s.check_data_st current_state_s.idle_st 
+current_state_s.idle_st 0 0 0 0 0 
+current_state_s.check_data_st 0 0 0 1 1 
+current_state_s.set_dot_st 0 0 1 0 1 
+current_state_s.set_dash_st 0 1 0 0 1 
+current_state_s.hold_st 1 0 0 0 1 
+
+State Machine - |top_level_rx_e|receiver_e:receiver_l|rxd_t_s
+Name rxd_t_s.stop_st rxd_t_s.prt_st rxd_t_s.data_st rxd_t_s.start_m_st rxd_t_s.start_st rxd_t_s.idle_st 
+rxd_t_s.idle_st 0 0 0 0 0 0 
+rxd_t_s.start_st 0 0 0 0 1 1 
+rxd_t_s.start_m_st 0 0 0 1 0 1 
+rxd_t_s.data_st 0 0 1 0 0 1 
+rxd_t_s.prt_st 0 1 0 0 0 1 
+rxd_t_s.stop_st 1 0 0 0 0 1 

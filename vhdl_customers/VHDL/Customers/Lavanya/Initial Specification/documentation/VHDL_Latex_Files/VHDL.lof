@@ -1,0 +1,12 @@
+\babel@toc {english}{}\relax 
+\contentsline {figure}{\numberline {1}{\ignorespaces Top Level Entity}}{6}{figure.1}%
+\contentsline {figure}{\numberline {2}{\ignorespaces Morse Code Transmission Architecture}}{7}{figure.2}%
+\contentsline {figure}{\numberline {3}{\ignorespaces Morse Code Reception Architecture}}{7}{figure.3}%
+\contentsline {figure}{\numberline {4}{\ignorespaces The UART bit sequence }}{8}{figure.4}%
+\contentsline {figure}{\numberline {5}{\ignorespaces UART Receiver Entity}}{9}{figure.5}%
+\contentsline {figure}{\numberline {6}{\ignorespaces An Entity of the Morse Code Conversion block}}{10}{figure.6}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Entity of the Morse Reader Entity}}{10}{figure.7}%
+\contentsline {figure}{\numberline {8}{\ignorespaces architecture of the Binary Search Tree Algorithm}}{11}{figure.8}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Entity of the Baud rate generator}}{11}{figure.9}%
+\contentsline {figure}{\numberline {10}{\ignorespaces UART protocol diagram}}{12}{figure.10}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Entity of the transmission block}}{13}{figure.11}%
