@@ -1,0 +1,137 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'cp_i'
+Slack : -4.623
+TNS   : -511.027
+
+Type  : Slow 1200mV 85C Model Setup 'ata_e:acoustic_control|cstate_s.result_st'
+Slack : -2.507
+TNS   : -33.761
+
+Type  : Slow 1200mV 85C Model Setup 'tsc_e:tea_bag_controller|cstate_s.process1_st'
+Slack : -2.311
+TNS   : -37.940
+
+Type  : Slow 1200mV 85C Model Hold 'cp_i'
+Slack : 0.123
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'tsc_e:tea_bag_controller|cstate_s.process1_st'
+Slack : 0.210
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ata_e:acoustic_control|cstate_s.result_st'
+Slack : 0.572
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'cp_i'
+Slack : -0.752
+TNS   : -9.431
+
+Type  : Slow 1200mV 85C Model Removal 'cp_i'
+Slack : 0.864
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cp_i'
+Slack : -3.000
+TNS   : -240.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ata_e:acoustic_control|cstate_s.result_st'
+Slack : -3.000
+TNS   : -19.818
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'tsc_e:tea_bag_controller|cstate_s.process1_st'
+Slack : 0.342
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'cp_i'
+Slack : -4.019
+TNS   : -434.027
+
+Type  : Slow 1200mV 0C Model Setup 'ata_e:acoustic_control|cstate_s.result_st'
+Slack : -2.183
+TNS   : -28.520
+
+Type  : Slow 1200mV 0C Model Setup 'tsc_e:tea_bag_controller|cstate_s.process1_st'
+Slack : -1.967
+TNS   : -31.956
+
+Type  : Slow 1200mV 0C Model Hold 'cp_i'
+Slack : 0.106
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'tsc_e:tea_bag_controller|cstate_s.process1_st'
+Slack : 0.194
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ata_e:acoustic_control|cstate_s.result_st'
+Slack : 0.553
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'cp_i'
+Slack : -0.587
+TNS   : -6.441
+
+Type  : Slow 1200mV 0C Model Removal 'cp_i'
+Slack : 0.769
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cp_i'
+Slack : -3.000
+TNS   : -240.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ata_e:acoustic_control|cstate_s.result_st'
+Slack : -3.000
+TNS   : -18.890
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'tsc_e:tea_bag_controller|cstate_s.process1_st'
+Slack : 0.428
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'cp_i'
+Slack : -2.195
+TNS   : -195.029
+
+Type  : Fast 1200mV 0C Model Setup 'tsc_e:tea_bag_controller|cstate_s.process1_st'
+Slack : -0.965
+TNS   : -13.867
+
+Type  : Fast 1200mV 0C Model Setup 'ata_e:acoustic_control|cstate_s.result_st'
+Slack : -0.958
+TNS   : -10.682
+
+Type  : Fast 1200mV 0C Model Hold 'cp_i'
+Slack : 0.057
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'tsc_e:tea_bag_controller|cstate_s.process1_st'
+Slack : 0.102
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ata_e:acoustic_control|cstate_s.result_st'
+Slack : 0.274
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'cp_i'
+Slack : 0.024
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'cp_i'
+Slack : 0.484
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cp_i'
+Slack : -3.000
+TNS   : -261.001
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ata_e:acoustic_control|cstate_s.result_st'
+Slack : -3.000
+TNS   : -15.562
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'tsc_e:tea_bag_controller|cstate_s.process1_st'
+Slack : 0.325
+TNS   : 0.000
+
+------------------------------------------------------------

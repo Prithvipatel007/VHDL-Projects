@@ -1,0 +1,91 @@
+# -------------------------------------------------------------------------- #
+#
+# Copyright (C) 2018  Intel Corporation. All rights reserved.
+# Your use of Intel Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Intel Program License 
+# Subscription Agreement, the Intel Quartus Prime License Agreement,
+# the Intel FPGA IP License Agreement, or other applicable license
+# agreement, including, without limitation, that your use is for
+# the sole purpose of programming logic devices manufactured by
+# Intel and sold by Intel or its authorized distributors.  Please
+# refer to the applicable agreement for further details.
+#
+# -------------------------------------------------------------------------- #
+#
+# Quartus Prime
+# Version 18.0.0 Build 614 04/24/2018 SJ Lite Edition
+# Date created = 12:26:38  December 21, 2021
+#
+# -------------------------------------------------------------------------- #
+#
+# Notes:
+#
+# 1) The default values for assignments are stored in the file:
+#		top_level_e_assignment_defaults.qdf
+#    If this file doesn't exist, see file:
+#		assignment_defaults.qdf
+#
+# 2) Altera recommends that you do not modify this file. This
+#    file is updated automatically by the Quartus Prime software
+#    and any changes you make may be lost or overwritten.
+#
+# -------------------------------------------------------------------------- #
+
+
+set_global_assignment -name FAMILY "Cyclone 10 LP"
+set_global_assignment -name DEVICE auto
+set_global_assignment -name TOP_LEVEL_ENTITY top_level_e
+set_global_assignment -name ORIGINAL_QUARTUS_VERSION 18.0.0
+set_global_assignment -name PROJECT_CREATION_TIME_DATE "12:26:38  DECEMBER 21, 2021"
+set_global_assignment -name LAST_QUARTUS_VERSION "18.0.0 Lite Edition"
+set_global_assignment -name VHDL_FILE ../src/uart_e.vhd
+set_global_assignment -name VHDL_FILE ../src/uart_a.vhd
+set_global_assignment -name VHDL_FILE ../src/tsc_e.vhd
+set_global_assignment -name VHDL_FILE ../src/tsc_a.vhd
+set_global_assignment -name VHDL_FILE ../src/transmission_e.vhd
+set_global_assignment -name VHDL_FILE ../src/transmission_a.vhd
+set_global_assignment -name VHDL_FILE ../src/track_timer_e.vhd
+set_global_assignment -name VHDL_FILE ../src/track_timer_a.vhd
+set_global_assignment -name VHDL_FILE ../src/top_level_e.vhd
+set_global_assignment -name VHDL_FILE ../src/top_level_a.vhd
+set_global_assignment -name VHDL_FILE ../src/toa_ascii_e.vhd
+set_global_assignment -name VHDL_FILE ../src/toa_ascii_a.vhd
+set_global_assignment -name VHDL_FILE ../src/mux16_txd_e.vhd
+set_global_assignment -name VHDL_FILE ../src/mux16_txd_a.vhd
+set_global_assignment -name VHDL_FILE ../src/mux4x8_e.vhd
+set_global_assignment -name VHDL_FILE ../src/mux4x8_a.vhd
+set_global_assignment -name VHDL_FILE ../src/en_comp_e.vhd
+set_global_assignment -name VHDL_FILE ../src/en_comp_a.vhd
+set_global_assignment -name VHDL_FILE ../src/debouncer_e.vhd
+set_global_assignment -name VHDL_FILE ../src/debouncer_a.vhd
+set_global_assignment -name VHDL_FILE ../src/counter_60_e.vhd
+set_global_assignment -name VHDL_FILE ../src/counter_60_a.vhd
+set_global_assignment -name VHDL_FILE ../src/counter_24_e.vhd
+set_global_assignment -name VHDL_FILE ../src/counter_24_a.vhd
+set_global_assignment -name VHDL_FILE ../src/Cnt4_e.vhd
+set_global_assignment -name VHDL_FILE ../src/Cnt4_a.vhd
+set_global_assignment -name VHDL_FILE ../src/Cnt3_e.vhd
+set_global_assignment -name VHDL_FILE ../src/Cnt3_a.vhd
+set_global_assignment -name VHDL_FILE ../src/c16ec_e1.vhd
+set_global_assignment -name VHDL_FILE ../src/c16ec_a1.vhd
+set_global_assignment -name VHDL_FILE ../src/c13ec_e1.vhd
+set_global_assignment -name VHDL_FILE ../src/c13ec_a1.vhd
+set_global_assignment -name VHDL_FILE ../src/c10ec_e1.vhd
+set_global_assignment -name VHDL_FILE ../src/c10ec_a1.vhd
+set_global_assignment -name VHDL_FILE ../src/c05ec_e1.vhd
+set_global_assignment -name VHDL_FILE ../src/c05ec_a1.vhd
+set_global_assignment -name VHDL_FILE ../src/c02ec_e1.vhd
+set_global_assignment -name VHDL_FILE ../src/c02ec_a1.vhd
+set_global_assignment -name VHDL_FILE ../src/brd_generator_e.vhd
+set_global_assignment -name VHDL_FILE ../src/brd_generator_a.vhd
+set_global_assignment -name VHDL_FILE ../src/ata_e.vhd
+set_global_assignment -name VHDL_FILE ../src/ata_a.vhd
+set_global_assignment -name PROJECT_OUTPUT_DIRECTORY output_files
+set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
+set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
+set_global_assignment -name PARTITION_COLOR 16764057 -section_id Top
+set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top

@@ -1,0 +1,2802 @@
+do ../script/start.do
+# start.do started!
+# Library work already exists !!!
+# Compile Toplevel...
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:42 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/brd_generator_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity brd_generator_e
+# End time: 22:01:42 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:42 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/brd_generator_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture brd_generator_a of brd_generator_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity brd_generator_e
+# End time: 22:01:42 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:42 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/debouncer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity debouncer_e
+# End time: 22:01:42 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:42 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/debouncer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture debouncer_a of debouncer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity debouncer_e
+# End time: 22:01:43 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:43 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c02ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c02ec
+# End time: 22:01:43 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:43 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c02ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c02ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c02ec
+# End time: 22:01:43 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:44 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c05ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c05ec
+# End time: 22:01:44 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:44 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c05ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c05ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c05ec
+# End time: 22:01:44 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:44 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c10ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c10ec
+# End time: 22:01:44 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:45 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c10ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c10ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c10ec
+# End time: 22:01:45 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:45 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c13ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c13ec
+# End time: 22:01:45 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:45 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c13ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c13ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c13ec
+# End time: 22:01:46 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:46 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c16ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c16ec
+# End time: 22:01:46 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:46 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c16ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c16ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c16ec
+# End time: 22:01:46 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:46 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt3_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt3_e
+# End time: 22:01:47 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:47 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt3_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt3_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt3_e
+# End time: 22:01:47 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:47 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt4_e
+# End time: 22:01:47 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:47 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt4_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt4_e
+# End time: 22:01:48 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:48 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/en_comp_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity en_comp_e
+# End time: 22:01:48 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:48 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/en_comp_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of en_comp_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity en_comp_e
+# End time: 22:01:48 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:48 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux4x8_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux4x8_e
+# End time: 22:01:48 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:49 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux4x8_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling architecture arch of mux4x8_e
+# -- Loading entity mux4x8_e
+# End time: 22:01:49 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:49 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux16_txd_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux16_txd_e
+# End time: 22:01:49 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:49 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux16_txd_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of mux16_txd_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity mux16_txd_e
+# End time: 22:01:49 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:50 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity transmission_e
+# End time: 22:01:50 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:50 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity transmission_e
+# End time: 22:01:50 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:50 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/uart_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity uart_ctrl_e
+# End time: 22:01:50 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:51 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/uart_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of uart_ctrl_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity uart_ctrl_e
+# End time: 22:01:51 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:51 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity top_level_e
+# End time: 22:01:51 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:51 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture top_level_a of top_level_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity top_level_e
+# End time: 22:01:52 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:52 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/TB_brd_gen_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_brd_gen
+# End time: 22:01:52 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:52 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/TB_brd_gen_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of TB_brd_gen
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_brd_gen
+# -- Loading entity brd_generator_e
+# End time: 22:01:52 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:52 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_60_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity counter_60_e
+# End time: 22:01:53 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:53 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_60_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture counter_60_a of counter_60_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity counter_60_e
+# End time: 22:01:53 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:53 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_24_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity counter_24_e
+# End time: 22:01:53 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:53 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_24_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture counter_24_a of counter_24_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity counter_24_e
+# End time: 22:01:54 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:54 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/track_timer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity track_timer_e
+# End time: 22:01:54 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:54 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/track_timer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture track_timer_a of track_timer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity track_timer_e
+# End time: 22:01:54 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:54 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_track_timer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_track_timer_e
+# End time: 22:01:54 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:55 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_track_timer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of tb_track_timer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_track_timer_e
+# End time: 22:01:55 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:55 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_tsc_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_tsc_e
+# End time: 22:01:55 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:55 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_tsc_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of tb_tsc_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_tsc_e
+# End time: 22:01:55 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:56 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/ata_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ata_e
+# End time: 22:01:56 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:56 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/ata_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling architecture arch of ata_e
+# -- Loading entity ata_e
+# End time: 22:01:56 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:56 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/toa_ascii_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity toa_ascii_e
+# End time: 22:01:57 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:57 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/toa_ascii_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling architecture toa_ascii_a of toa_ascii_e
+# -- Loading entity toa_ascii_e
+# End time: 22:01:57 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:57 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity transmission_e
+# End time: 22:01:57 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:57 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity transmission_e
+# End time: 22:01:57 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:58 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/tsc_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tsc_e
+# End time: 22:01:58 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:58 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/tsc_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of tsc_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tsc_e
+# End time: 22:01:58 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:58 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_top_level_e
+# End time: 22:01:58 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:59 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture tb_top_level_a of tb_top_level_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_top_level_e
+# End time: 22:01:59 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:59 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_ata_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_ata_e
+# End time: 22:01:59 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:01:59 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_ata_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of tb_ata_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_ata_e
+# End time: 22:01:59 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:02:00 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_transmission_e
+# End time: 22:02:00 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:02:00 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of TB_transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_transmission_e
+# End time: 22:02:00 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Simulate...
+# vsim -voptargs="+acc" -t 1ns work.tb_track_timer_e 
+# Start time: 22:02:00 on Jan 15,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_track_timer_e(a1)
+# Loading work.track_timer_e(track_timer_a)
+# Loading work.counter_60_e(counter_60_a)
+# Loading work.counter_24_e(counter_24_a)
+# ....simulation of FPGA started.... 
+# 12
+# hexadecimal
+# .main_pane.wave.interior.cs.body.pw.wf
+
+do ../script/start.do
+# start.do started!
+# End time: 22:05:21 on Jan 15,2022, Elapsed time: 0:03:21
+# Errors: 0, Warnings: 0
+# Library work already exists !!!
+# Compile Toplevel...
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:22 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/brd_generator_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity brd_generator_e
+# End time: 22:05:22 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:23 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/brd_generator_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture brd_generator_a of brd_generator_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity brd_generator_e
+# End time: 22:05:23 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:23 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/debouncer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity debouncer_e
+# End time: 22:05:24 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:24 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/debouncer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture debouncer_a of debouncer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity debouncer_e
+# End time: 22:05:24 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:24 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c02ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c02ec
+# End time: 22:05:24 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:25 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c02ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c02ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c02ec
+# End time: 22:05:25 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:25 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c05ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c05ec
+# End time: 22:05:25 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:25 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c05ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c05ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c05ec
+# End time: 22:05:25 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:26 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c10ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c10ec
+# End time: 22:05:26 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:26 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c10ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c10ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c10ec
+# End time: 22:05:26 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:26 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c13ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c13ec
+# End time: 22:05:26 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:27 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c13ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c13ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c13ec
+# End time: 22:05:27 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:27 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c16ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c16ec
+# End time: 22:05:27 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:27 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c16ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c16ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c16ec
+# End time: 22:05:27 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:28 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt3_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt3_e
+# End time: 22:05:28 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:28 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt3_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt3_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt3_e
+# End time: 22:05:28 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:28 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt4_e
+# End time: 22:05:28 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:29 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt4_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt4_e
+# End time: 22:05:29 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:29 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/en_comp_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity en_comp_e
+# End time: 22:05:29 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:29 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/en_comp_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of en_comp_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity en_comp_e
+# End time: 22:05:30 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:30 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux4x8_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux4x8_e
+# End time: 22:05:30 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:30 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux4x8_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling architecture arch of mux4x8_e
+# -- Loading entity mux4x8_e
+# End time: 22:05:30 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:30 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux16_txd_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux16_txd_e
+# End time: 22:05:31 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:31 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux16_txd_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of mux16_txd_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity mux16_txd_e
+# End time: 22:05:31 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:31 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity transmission_e
+# End time: 22:05:31 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:31 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity transmission_e
+# End time: 22:05:32 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:32 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/uart_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity uart_ctrl_e
+# End time: 22:05:32 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:32 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/uart_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of uart_ctrl_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity uart_ctrl_e
+# End time: 22:05:32 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:32 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity top_level_e
+# End time: 22:05:33 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:33 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture top_level_a of top_level_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity top_level_e
+# End time: 22:05:33 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:33 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/TB_brd_gen_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_brd_gen
+# End time: 22:05:33 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:33 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/TB_brd_gen_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of TB_brd_gen
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_brd_gen
+# -- Loading entity brd_generator_e
+# End time: 22:05:34 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:34 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_60_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity counter_60_e
+# End time: 22:05:34 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:34 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_60_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture counter_60_a of counter_60_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity counter_60_e
+# End time: 22:05:34 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:35 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_24_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity counter_24_e
+# End time: 22:05:35 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:35 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_24_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture counter_24_a of counter_24_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity counter_24_e
+# End time: 22:05:35 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:35 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/track_timer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity track_timer_e
+# End time: 22:05:35 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:35 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/track_timer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture track_timer_a of track_timer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity track_timer_e
+# End time: 22:05:36 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:36 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_track_timer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_track_timer_e
+# End time: 22:05:36 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:36 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_track_timer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of tb_track_timer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_track_timer_e
+# End time: 22:05:36 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:37 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_tsc_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_tsc_e
+# End time: 22:05:37 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:37 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_tsc_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of tb_tsc_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_tsc_e
+# End time: 22:05:37 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:37 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/ata_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ata_e
+# End time: 22:05:38 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:38 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/ata_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling architecture arch of ata_e
+# -- Loading entity ata_e
+# End time: 22:05:38 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:38 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/toa_ascii_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity toa_ascii_e
+# End time: 22:05:38 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:38 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/toa_ascii_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling architecture toa_ascii_a of toa_ascii_e
+# -- Loading entity toa_ascii_e
+# End time: 22:05:39 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:39 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity transmission_e
+# End time: 22:05:39 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:39 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity transmission_e
+# End time: 22:05:39 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:39 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/tsc_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tsc_e
+# End time: 22:05:40 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:40 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/tsc_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of tsc_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tsc_e
+# End time: 22:05:40 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:40 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_top_level_e
+# End time: 22:05:40 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:41 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture tb_top_level_a of tb_top_level_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_top_level_e
+# End time: 22:05:41 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:41 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_ata_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_ata_e
+# End time: 22:05:41 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:41 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_ata_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of tb_ata_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_ata_e
+# End time: 22:05:41 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:42 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_transmission_e
+# End time: 22:05:42 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:05:42 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of TB_transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_transmission_e
+# End time: 22:05:42 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Simulate...
+# vsim -voptargs="+acc" -t 1ns work.tb_tsc_e 
+# Start time: 22:05:42 on Jan 15,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_tsc_e(a1)
+# Loading work.tsc_e(arch)
+# ....simulation of FPGA started.... 
+# 12
+# hexadecimal
+# .main_pane.wave.interior.cs.body.pw.wf
+
+do ../script/start.do
+# start.do started!
+# End time: 22:09:27 on Jan 15,2022, Elapsed time: 0:03:45
+# Errors: 0, Warnings: 0
+# Library work already exists !!!
+# Compile Toplevel...
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:28 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/brd_generator_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity brd_generator_e
+# End time: 22:09:28 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:28 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/brd_generator_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture brd_generator_a of brd_generator_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity brd_generator_e
+# End time: 22:09:28 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:29 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/debouncer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity debouncer_e
+# End time: 22:09:29 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:29 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/debouncer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture debouncer_a of debouncer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity debouncer_e
+# End time: 22:09:29 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:29 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c02ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c02ec
+# End time: 22:09:30 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:30 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c02ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c02ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c02ec
+# End time: 22:09:30 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:30 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c05ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c05ec
+# End time: 22:09:30 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:30 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c05ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c05ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c05ec
+# End time: 22:09:31 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:31 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c10ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c10ec
+# End time: 22:09:31 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:31 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c10ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c10ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c10ec
+# End time: 22:09:31 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:31 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c13ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c13ec
+# End time: 22:09:32 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:32 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c13ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c13ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c13ec
+# End time: 22:09:32 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:32 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c16ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c16ec
+# End time: 22:09:32 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:32 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c16ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c16ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c16ec
+# End time: 22:09:33 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:33 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt3_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt3_e
+# End time: 22:09:33 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:33 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt3_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt3_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt3_e
+# End time: 22:09:33 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:34 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt4_e
+# End time: 22:09:34 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:34 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt4_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt4_e
+# End time: 22:09:34 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:34 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/en_comp_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity en_comp_e
+# End time: 22:09:34 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:35 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/en_comp_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of en_comp_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity en_comp_e
+# End time: 22:09:35 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:35 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux4x8_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux4x8_e
+# End time: 22:09:35 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:35 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux4x8_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling architecture arch of mux4x8_e
+# -- Loading entity mux4x8_e
+# End time: 22:09:35 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:36 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux16_txd_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux16_txd_e
+# End time: 22:09:36 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:36 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux16_txd_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of mux16_txd_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity mux16_txd_e
+# End time: 22:09:36 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:36 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity transmission_e
+# End time: 22:09:36 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:37 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity transmission_e
+# End time: 22:09:37 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:37 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/uart_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity uart_ctrl_e
+# End time: 22:09:37 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:37 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/uart_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of uart_ctrl_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity uart_ctrl_e
+# End time: 22:09:37 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:38 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity top_level_e
+# End time: 22:09:38 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:38 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture top_level_a of top_level_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity top_level_e
+# End time: 22:09:38 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:38 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/TB_brd_gen_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_brd_gen
+# End time: 22:09:39 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:39 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/TB_brd_gen_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of TB_brd_gen
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_brd_gen
+# -- Loading entity brd_generator_e
+# End time: 22:09:39 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:39 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_60_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity counter_60_e
+# End time: 22:09:39 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:39 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_60_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture counter_60_a of counter_60_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity counter_60_e
+# End time: 22:09:39 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:40 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_24_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity counter_24_e
+# End time: 22:09:40 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:40 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_24_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture counter_24_a of counter_24_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity counter_24_e
+# End time: 22:09:40 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:40 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/track_timer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity track_timer_e
+# End time: 22:09:41 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:41 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/track_timer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture track_timer_a of track_timer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity track_timer_e
+# End time: 22:09:41 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:41 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_track_timer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_track_timer_e
+# End time: 22:09:41 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:41 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_track_timer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of tb_track_timer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_track_timer_e
+# End time: 22:09:42 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:42 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_tsc_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_tsc_e
+# End time: 22:09:42 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:42 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_tsc_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of tb_tsc_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_tsc_e
+# End time: 22:09:42 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:42 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/ata_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ata_e
+# End time: 22:09:42 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:43 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/ata_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling architecture arch of ata_e
+# -- Loading entity ata_e
+# End time: 22:09:43 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:43 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/toa_ascii_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity toa_ascii_e
+# End time: 22:09:43 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:43 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/toa_ascii_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling architecture toa_ascii_a of toa_ascii_e
+# -- Loading entity toa_ascii_e
+# End time: 22:09:43 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:44 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity transmission_e
+# End time: 22:09:44 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:44 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity transmission_e
+# End time: 22:09:44 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:44 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/tsc_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tsc_e
+# End time: 22:09:44 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:45 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/tsc_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of tsc_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tsc_e
+# End time: 22:09:45 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:45 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_top_level_e
+# End time: 22:09:45 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:45 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture tb_top_level_a of tb_top_level_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_top_level_e
+# End time: 22:09:46 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:46 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_ata_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_ata_e
+# End time: 22:09:46 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:46 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_ata_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of tb_ata_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_ata_e
+# End time: 22:09:46 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:47 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_transmission_e
+# End time: 22:09:47 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:09:47 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of TB_transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_transmission_e
+# End time: 22:09:47 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Simulate...
+# vsim -voptargs="+acc" -t 1ns work.tb_ata_e 
+# Start time: 22:09:47 on Jan 15,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_ata_e(a1)
+# Loading ieee.numeric_std(body)
+# Loading work.ata_e(arch)
+# ....simulation of FPGA started.... 
+# 12
+# hexadecimal
+# .main_pane.wave.interior.cs.body.pw.wf
+# ** Error: invalid command name "00"
+# Error in macro ./../script/start.do line 105
+# invalid command name "00"
+#     while executing
+# "00 ms"
+do ../script/start.do
+# start.do started!
+# End time: 22:12:29 on Jan 15,2022, Elapsed time: 0:02:42
+# Errors: 3, Warnings: 0
+# Library work already exists !!!
+# Compile Toplevel...
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:30 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/brd_generator_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity brd_generator_e
+# End time: 22:12:30 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:30 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/brd_generator_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture brd_generator_a of brd_generator_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity brd_generator_e
+# End time: 22:12:31 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:31 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/debouncer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity debouncer_e
+# End time: 22:12:31 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:31 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/debouncer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture debouncer_a of debouncer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity debouncer_e
+# End time: 22:12:31 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:31 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c02ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c02ec
+# End time: 22:12:31 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:32 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c02ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c02ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c02ec
+# End time: 22:12:32 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:32 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c05ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c05ec
+# End time: 22:12:32 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:32 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c05ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c05ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c05ec
+# End time: 22:12:32 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:33 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c10ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c10ec
+# End time: 22:12:33 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:33 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c10ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c10ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c10ec
+# End time: 22:12:33 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:33 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c13ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c13ec
+# End time: 22:12:33 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:34 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c13ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c13ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c13ec
+# End time: 22:12:34 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:34 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c16ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c16ec
+# End time: 22:12:34 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:34 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c16ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c16ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c16ec
+# End time: 22:12:34 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:35 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt3_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt3_e
+# End time: 22:12:35 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:35 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt3_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt3_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt3_e
+# End time: 22:12:35 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:35 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt4_e
+# End time: 22:12:35 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:36 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt4_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt4_e
+# End time: 22:12:36 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:36 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/en_comp_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity en_comp_e
+# End time: 22:12:36 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:36 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/en_comp_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of en_comp_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity en_comp_e
+# End time: 22:12:36 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:37 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux4x8_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux4x8_e
+# End time: 22:12:37 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:37 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux4x8_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling architecture arch of mux4x8_e
+# -- Loading entity mux4x8_e
+# End time: 22:12:37 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:37 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux16_txd_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux16_txd_e
+# End time: 22:12:38 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:38 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux16_txd_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of mux16_txd_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity mux16_txd_e
+# End time: 22:12:38 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:38 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity transmission_e
+# End time: 22:12:38 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:38 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity transmission_e
+# End time: 22:12:39 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:39 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/uart_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity uart_ctrl_e
+# End time: 22:12:39 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:39 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/uart_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of uart_ctrl_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity uart_ctrl_e
+# End time: 22:12:39 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:39 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity top_level_e
+# End time: 22:12:40 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:40 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture top_level_a of top_level_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity top_level_e
+# End time: 22:12:40 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:40 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/TB_brd_gen_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_brd_gen
+# End time: 22:12:40 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:40 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/TB_brd_gen_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of TB_brd_gen
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_brd_gen
+# -- Loading entity brd_generator_e
+# End time: 22:12:41 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:41 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_60_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity counter_60_e
+# End time: 22:12:41 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:41 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_60_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture counter_60_a of counter_60_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity counter_60_e
+# End time: 22:12:41 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:41 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_24_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity counter_24_e
+# End time: 22:12:41 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:42 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_24_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture counter_24_a of counter_24_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity counter_24_e
+# End time: 22:12:42 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:42 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/track_timer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity track_timer_e
+# End time: 22:12:42 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:42 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/track_timer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture track_timer_a of track_timer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity track_timer_e
+# End time: 22:12:42 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:42 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_track_timer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_track_timer_e
+# End time: 22:12:43 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:43 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_track_timer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of tb_track_timer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_track_timer_e
+# End time: 22:12:43 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:43 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_tsc_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_tsc_e
+# End time: 22:12:43 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:43 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_tsc_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of tb_tsc_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_tsc_e
+# End time: 22:12:44 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:44 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/ata_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ata_e
+# End time: 22:12:44 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:44 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/ata_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling architecture arch of ata_e
+# -- Loading entity ata_e
+# End time: 22:12:44 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:44 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/toa_ascii_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity toa_ascii_e
+# End time: 22:12:45 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:45 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/toa_ascii_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling architecture toa_ascii_a of toa_ascii_e
+# -- Loading entity toa_ascii_e
+# End time: 22:12:45 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:45 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity transmission_e
+# End time: 22:12:45 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:45 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity transmission_e
+# End time: 22:12:46 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:46 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/tsc_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tsc_e
+# End time: 22:12:46 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:46 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/tsc_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of tsc_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tsc_e
+# End time: 22:12:46 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:46 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_top_level_e
+# End time: 22:12:47 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:47 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture tb_top_level_a of tb_top_level_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_top_level_e
+# End time: 22:12:47 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:47 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_ata_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_ata_e
+# End time: 22:12:47 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:48 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_ata_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of tb_ata_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_ata_e
+# End time: 22:12:48 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:48 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_transmission_e
+# End time: 22:12:48 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:12:48 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of TB_transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_transmission_e
+# End time: 22:12:48 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Simulate...
+# vsim -voptargs="+acc" -t 1ns work.TB_transmission_e 
+# Start time: 22:12:49 on Jan 15,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_transmission_e(arch)
+# Loading work.transmission_e(arch)
+# Loading work.mux4x8_e(arch)
+# Loading work.mux16_txd_e(arch)
+# Loading work.uart_ctrl_e(arch)
+# Loading work.cnt4_e(arch)
+# Loading work.cnt3_e(arch)
+# ....simulation of FPGA started.... 
+# 12
+# hexadecimal
+# .main_pane.wave.interior.cs.body.pw.wf
+do ../script/start.do
+# start.do started!
+# End time: 22:14:54 on Jan 15,2022, Elapsed time: 0:02:05
+# Errors: 0, Warnings: 0
+# Library work already exists !!!
+# Compile Toplevel...
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:14:54 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/brd_generator_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity brd_generator_e
+# End time: 22:14:54 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:14:55 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/brd_generator_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture brd_generator_a of brd_generator_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity brd_generator_e
+# End time: 22:14:55 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:14:55 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/debouncer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity debouncer_e
+# End time: 22:14:55 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:14:55 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/debouncer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture debouncer_a of debouncer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity debouncer_e
+# End time: 22:14:56 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:14:56 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c02ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c02ec
+# End time: 22:14:56 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:14:56 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c02ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c02ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c02ec
+# End time: 22:14:56 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:14:57 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c05ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c05ec
+# End time: 22:14:57 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:14:57 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c05ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c05ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c05ec
+# End time: 22:14:57 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:14:57 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c10ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c10ec
+# End time: 22:14:57 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:14:58 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c10ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture ar1 of c10ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c10ec
+# End time: 22:14:58 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:14:58 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c13ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c13ec
+# End time: 22:14:58 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:14:58 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c13ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c13ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c13ec
+# End time: 22:14:58 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:14:59 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c16ec_e1.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity c16ec
+# End time: 22:14:59 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:14:59 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/c16ec_a1.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of c16ec
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity c16ec
+# End time: 22:14:59 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:14:59 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt3_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt3_e
+# End time: 22:14:59 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:00 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt3_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt3_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt3_e
+# End time: 22:15:00 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:00 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt4_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity Cnt4_e
+# End time: 22:15:00 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:00 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/Cnt4_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of Cnt4_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity Cnt4_e
+# End time: 22:15:01 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:01 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/en_comp_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity en_comp_e
+# End time: 22:15:01 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:01 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/en_comp_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of en_comp_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity en_comp_e
+# End time: 22:15:01 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:01 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux4x8_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux4x8_e
+# End time: 22:15:02 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:02 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux4x8_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling architecture arch of mux4x8_e
+# -- Loading entity mux4x8_e
+# End time: 22:15:02 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:02 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux16_txd_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity mux16_txd_e
+# End time: 22:15:02 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:02 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/mux16_txd_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of mux16_txd_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity mux16_txd_e
+# End time: 22:15:03 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:03 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity transmission_e
+# End time: 22:15:03 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:03 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity transmission_e
+# End time: 22:15:03 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:04 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/uart_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity uart_ctrl_e
+# End time: 22:15:04 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:04 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/uart_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of uart_ctrl_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity uart_ctrl_e
+# End time: 22:15:04 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:04 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity top_level_e
+# End time: 22:15:04 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:05 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture top_level_a of top_level_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity top_level_e
+# End time: 22:15:05 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:05 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/TB_brd_gen_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_brd_gen
+# End time: 22:15:05 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:05 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/TB_brd_gen_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of TB_brd_gen
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_brd_gen
+# -- Loading entity brd_generator_e
+# End time: 22:15:06 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:06 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_60_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity counter_60_e
+# End time: 22:15:06 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:06 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_60_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture counter_60_a of counter_60_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity counter_60_e
+# End time: 22:15:06 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:06 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_24_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity counter_24_e
+# End time: 22:15:07 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:07 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/counter_24_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture counter_24_a of counter_24_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity counter_24_e
+# End time: 22:15:07 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:07 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/track_timer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity track_timer_e
+# End time: 22:15:07 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:07 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/track_timer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture track_timer_a of track_timer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity track_timer_e
+# End time: 22:15:08 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:08 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_track_timer_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_track_timer_e
+# End time: 22:15:08 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:08 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_track_timer_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of tb_track_timer_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_track_timer_e
+# End time: 22:15:08 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:09 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_tsc_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_tsc_e
+# End time: 22:15:09 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:09 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_tsc_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of tb_tsc_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_tsc_e
+# End time: 22:15:09 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:09 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/ata_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity ata_e
+# End time: 22:15:09 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:09 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/ata_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling architecture arch of ata_e
+# -- Loading entity ata_e
+# End time: 22:15:10 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:10 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/toa_ascii_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity toa_ascii_e
+# End time: 22:15:10 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:10 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/toa_ascii_a.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling architecture toa_ascii_a of toa_ascii_e
+# -- Loading entity toa_ascii_e
+# End time: 22:15:10 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:11 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity transmission_e
+# End time: 22:15:11 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:11 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity transmission_e
+# End time: 22:15:11 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:11 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/tsc_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tsc_e
+# End time: 22:15:11 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:12 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../src/tsc_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of tsc_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tsc_e
+# End time: 22:15:12 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:12 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_top_level_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_top_level_e
+# End time: 22:15:12 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:12 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_top_level_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture tb_top_level_a of tb_top_level_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_top_level_e
+# End time: 22:15:13 on Jan 15,2022, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:13 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_ata_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity tb_ata_e
+# End time: 22:15:13 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:13 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_ata_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture a1 of tb_ata_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity tb_ata_e
+# End time: 22:15:13 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:13 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_transmission_e.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity TB_transmission_e
+# End time: 22:15:13 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 22:15:14 on Jan 15,2022
+# vcom -reportprogress 300 -work work -explicit -2008 ../tb/tb_transmission_a.vhd 
+# -- Loading package STANDARD
+# -- Compiling architecture arch of TB_transmission_e
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading entity TB_transmission_e
+# End time: 22:15:14 on Jan 15,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Simulate...
+# vsim -voptargs="+acc" -t 1ns work.tb_top_level_e 
+# Start time: 22:15:14 on Jan 15,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.tb_top_level_e(tb_top_level_a)
+# Loading work.top_level_e(top_level_a)
+# Loading work.brd_generator_e(brd_generator_a)
+# Loading work.c02ec(ar1)
+# Loading work.c05ec(ar1)
+# Loading work.c13ec(a1)
+# Loading work.c16ec(a1)
+# Loading work.c10ec(ar1)
+# Loading work.track_timer_e(track_timer_a)
+# Loading work.counter_60_e(counter_60_a)
+# Loading work.counter_24_e(counter_24_a)
+# Loading work.debouncer_e(debouncer_a)
+# Loading work.tsc_e(arch)
+# Loading ieee.numeric_std(body)
+# Loading work.ata_e(arch)
+# Loading work.toa_ascii_e(toa_ascii_a)
+# Loading work.transmission_e(arch)
+# Loading work.mux4x8_e(arch)
+# Loading work.mux16_txd_e(arch)
+# Loading work.uart_ctrl_e(arch)
+# Loading work.cnt4_e(arch)
+# Loading work.cnt3_e(arch)
+# ....simulation of FPGA started.... 
+# 12
+# hexadecimal
+# .main_pane.wave.interior.cs.body.pw.wf
+# Break key hit
+# Break in Process counter at ../src/c10ec_a1.vhd line 15
+# End time: 22:18:03 on Jan 15,2022, Elapsed time: 0:02:49
+# Errors: 0, Warnings: 0
