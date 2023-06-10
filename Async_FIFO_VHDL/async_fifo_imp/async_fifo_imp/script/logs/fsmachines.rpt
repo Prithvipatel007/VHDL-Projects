@@ -1,0 +1,18 @@
+/////////////////////////////////////////////////////////////////////////
+// NXpython 1.9.4
+//
+//
+// Date:              Wed Jul 10 10:30:25 2019
+//
+// Command line       /products_nfs/nanoxplore/NXmap/2.9.4/bin/nxpython nx_script.py
+// Distribution:      Red Hat Enterprise Linux Server release 6.10
+// Internal revision: 12052
+/////////////////////////////////////////////////////////////////////////
+
+        |   ----------------------------------------------
+        |   - Finite State Machines Cells analysis       -
+        |   ----------------------------------------------
+        | 
+        |   ----------------------------------------------
+        |   - Finite State Machines Instances processing -
+        |   ----------------------------------------------

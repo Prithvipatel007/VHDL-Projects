@@ -1,0 +1,107 @@
+/////////////////////////////////////////////////////////////////////////
+// NXpython 1.9.4
+//
+//
+// Date:              Wed Jul 10 10:30:25 2019
+//
+// Command line       /products_nfs/nanoxplore/NXmap/2.9.4/bin/nxpython nx_script.py
+// Distribution:      Red Hat Enterprise Linux Server release 6.10
+// Internal revision: 12052
+/////////////////////////////////////////////////////////////////////////
+
+REMARK  | Current directory changed to ./
+        | Using variant: NG-LARGE
+        | SetDirectory function is obsolete. Please provide a working directory to the createProject() function to define the folder in which data will be written.
+        | Saving project
+        |   Writing file /home/a27508300/Thesis/NXmap_test_FirstTry/async_fifo_imp/script../NX_generated_files/native.nxm
+        |   Saving project succeed in 1 milli-second
+        | Synthesizing project (step 1/2) with KEVLAR-4.2
+        |   +---------------------------------------+
+        |   | Options                               |
+        |   +------------------------------+--------+
+        |   | DefaultFSMEncoding           | OneHot |
+        |   | DefaultRAMMapping            |   AUTO |
+        |   | DefaultROMMapping            |   AUTO |
+        |   | GenerateIntermediateArchives |  Never |
+        |   | ManageUnconnectedOutputs     | Ground |
+        |   | ManageUnconnectedSignals     | Ground |
+        |   | MaxRegisterCount             |   2500 |
+        |   | MergeRegisterToPad           |  Never |
+        |   | UseNxLibrary                 |    Yes |
+        |   | IgnoreRAMFlashClear          |     No |
+        |   | DisableAssertionChecking     |     No |
+        |   | DisableKeepPortOrdering      |     No |
+        |   | DisableROMFullLutRecognition |     No |
+        |   | DisableRAMAlternateForm      |     No |
+        |   +------------------------------+--------+
+        |   +----------------------------+
+        |   | Directives                 |
+        |   +---------+--------+---------+
+        |   | .*ram.* |    RAM | RAM_ECC |
+        |   +---------+--------+---------+
+        |   Loading HDL
+        |     Loading succeeded in 784 milli-seconds
+        |   Initializing design
+        |     Creating cell: 'add_11u_11u'
+        |     Creating cell: 'reduce_nor_9'
+        |     Creating cell: 'reduce_nor_11'
+        |     Creating cell: 'LessThan_10u_10u'
+        |     Creating cell: 'add_10u_10u'
+        |     Creating cell: 'reduce_nor_10'
+        |     Creating cell: 'LessThan_11u_11u'
+        |     Creating cell: 'ClockedWritePort_10_16_0_1023_15_0'
+        |     Creating cell: 'ReadPort_10_16_0_1023_15_0'
+        |     Creating cell: 'twoport_ram(data_width=16,address_width=10)'
+        |     Creating cell: 'async_fifo'
+        |     Initializing async_fifo as Design Top
+        |     Initializing succeeded in 62 milli-seconds
+        |   Reporting BlackBoxes usage
+        |     Nothing to report
+        |   Reporting Model Directives usage
+        |     +-----------------+------+---------+----------------------------+
+        |     | Model Directive | Type | Mapping |            Usage           |
+        |     +-----------------+------+---------+----------------------------+
+        |     |     .*ram.*     |  RAM | RAM_ECC | twoport_ram(X5CDB8E97)_mem |
+        |     +-----------------+------+---------+----------------------------+
+        |   Reporting Model Initializers usage
+        |     Nothing to report
+        |   Synthesizing project (step 1/2) succeeded in 936 milli-seconds
+        | Synthesizing project (step 2/2) with PLANAR-4.2
+        |   +---------------------------------------+
+        |   | Options                               |
+        |   +------------------------------+--------+
+        |   | ExportAsIPCore               |        |
+        |   | GenerateIntermediateArchives |  Never |
+        |   | ManageAsynchronousReadPort   |     No |
+        |   | ManageUninitializedLoops     |  Never |
+        |   | MappingEffort                |   High |
+        |   | MaxRegisterCount             |   2500 |
+        |   | MergeRegisterToPad           |  Never |
+        |   | OptimizedMux                 |    Yes |
+        |   | TimingDriven                 |    Yes |
+        |   | UseSynthesisRetiming         |     No |
+        |   | VariantAwareSynthesis        |    Yes |
+        |   | DisableAdderBasicMerge       |     No |
+        |   | DisableAdderTrivialRemoval   |     No |
+        |   | DisableAdderTreeOptimization |     No |
+        |   | DisableDSPFullRecognition    |     No |
+        |   | DisableDSPAluOperator        |     No |
+        |   | DisableDSPPreOperator        |     No |
+        |   | DisableDSPRegisters          |     No |
+        |   | DisableRAMRegisters          |     No |
+        |   +------------------------------+--------+
+        |   +----------------------------+
+        |   | Directives                 |
+        |   +---------+--------+---------+
+        |   | .*ram.* |    RAM | RAM_ECC |
+        |   +---------+--------+---------+
+        |   Pre-mapping constant cells
+        |     Pre-mapping constant cells succeeded in 0 milli-second
+        |   Pre-mapping-hier dff cells
+        |     Pre-mapping-hier dff cells succeeded in 0 milli-second
+        |   Pre-mapping-hier adders
+        |     Classify adders
+        |     Found Generator: add_11u_11u::GENE_ADD / false : 11 : 0 : 11 : 11
+        |     Found Generator: add_10u_10u::GENE_ADD / false : 10 : 0 : 10 : 10
+        |     Collapse: Merging Linked adders
+        |     Remove Trivial adders

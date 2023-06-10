@@ -1,0 +1,20 @@
+/////////////////////////////////////////////////////////////////////////
+// NXpython 1.9.4
+//
+//
+// Date:              Wed Jul 10 10:30:25 2019
+//
+// Command line       /products_nfs/nanoxplore/NXmap/2.9.4/bin/nxpython nx_script.py
+// Distribution:      Red Hat Enterprise Linux Server release 6.10
+// Internal revision: 12052
+/////////////////////////////////////////////////////////////////////////
+
+        |   ----------------------------------------------
+        |   - HDL Source code analysis                   -
+        |   ----------------------------------------------
+REMARK  |     The vhdl library search path for library "std" is now "/products_nfs/nanoxplore/NXmap/2.9.4/share/vhdl/std"
+REMARK  |     The vhdl library search path for library "ieee" is now "/products_nfs/nanoxplore/NXmap/2.9.4/share/vhdl/ieee"
+REMARK  |     The vhdl library search path for library "synopsys" is now "/products_nfs/nanoxplore/NXmap/2.9.4/share/vhdl/synopsys"
+REMARK  |     ../src/twoport_ram.vhd(30): extracting RAM for identifier 'mem'
+REMARK  |     Renaming twoport_ram(data_width=16,address_width=10)
+        |          to: twoport_ram(X5CDB8E97)

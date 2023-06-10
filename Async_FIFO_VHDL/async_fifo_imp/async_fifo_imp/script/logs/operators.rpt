@@ -1,0 +1,38 @@
+/////////////////////////////////////////////////////////////////////////
+// NXpython 1.9.4
+//
+//
+// Date:              Wed Jul 10 10:30:25 2019
+//
+// Command line       /products_nfs/nanoxplore/NXmap/2.9.4/bin/nxpython nx_script.py
+// Distribution:      Red Hat Enterprise Linux Server release 6.10
+// Internal revision: 12052
+/////////////////////////////////////////////////////////////////////////
+
+        |   ----------------------------------------------
+        |   - Operator Cells analysis                    -
+        |   ----------------------------------------------
+        | 
+        |     Operator 'LessThan_10u_10u'
+        |     	 : LessThan_L270	(line 270 in ../src/async_fifo.vhd)
+        |     	 : LessThan_L300	(line 300 in ../src/async_fifo.vhd)
+        | 
+        |     Operator 'LessThan_11u_11u'
+        |     	 : LessThan_aff	(line 326 in ../src/async_fifo.vhd)
+        |     	 : LessThan_aef	(line 327 in ../src/async_fifo.vhd)
+        | 
+        |     Operator 'add_10u_10u'
+        |     	 : add_L271	(line 271 in ../src/async_fifo.vhd)
+        |     	 : add_L273	(line 273 in ../src/async_fifo.vhd)
+        |     	 : add_L301	(line 301 in ../src/async_fifo.vhd)
+        |     	 : add_L303	(line 303 in ../src/async_fifo.vhd)
+        | 
+        |     Operator 'add_11u_11u'
+        |     	 : add_L76	(line 76 in ../src/async_fifo.vhd)
+        |     	 : add_L76_1	(line 76 in ../src/async_fifo.vhd)
+        |     	 : add_L273_1	(line 273 in ../src/async_fifo.vhd)
+        |     	 : add_L303_1	(line 303 in ../src/async_fifo.vhd)
+        | 
+        |   ----------------------------------------------
+        |   - Operator Instances processing              -
+        |   ----------------------------------------------

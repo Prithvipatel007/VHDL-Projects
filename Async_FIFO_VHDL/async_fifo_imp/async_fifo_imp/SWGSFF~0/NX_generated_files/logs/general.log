@@ -1,0 +1,17 @@
+/////////////////////////////////////////////////////////////////////////
+// NXmap 2.9.2
+//
+//
+// Date:              Fri Jul 5 15:22:42 2019
+//
+// Command line       /products_nfs/nanoxplore/NXmap/2.9.2/bin/nxmap routed.nxm
+// Distribution:      Red Hat Enterprise Linux Server release 6.10
+// Internal revision: 11633:11636
+/////////////////////////////////////////////////////////////////////////
+
+REMARK  |   Current directory changed to /home/a27508300/Thesis/NXmap_test_FirstTry/pbm/script../NX_generated_files
+        |   Loading project
+        |     Reading file routed.nxm
+        |     Using variant: NG-LARGE
+        |     Loading project succeed in 7 seconds
+        |   Running nxmap succeed in 4 minutes and 23 seconds

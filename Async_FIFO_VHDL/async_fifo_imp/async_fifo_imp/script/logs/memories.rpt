@@ -1,0 +1,35 @@
+/////////////////////////////////////////////////////////////////////////
+// NXpython 1.9.4
+//
+//
+// Date:              Wed Jul 10 10:30:25 2019
+//
+// Command line       /products_nfs/nanoxplore/NXmap/2.9.4/bin/nxpython nx_script.py
+// Distribution:      Red Hat Enterprise Linux Server release 6.10
+// Internal revision: 12052
+/////////////////////////////////////////////////////////////////////////
+
+        |   ----------------------------------------------
+        |   - Memory Cells analysis                      -
+        |   ----------------------------------------------
+        | 
+        |     HDL 'twoport_ram(X5CDB8E97)_mem' Raw description seems to be 'Read after Write'
+        |     	Physical implementation in RF/RAM may not follow it exactly without additional logic
+        | 
+        |     Ram 'twoport_ram(X5CDB8E97)_mem' Analysis:
+        |     	Port 0 : 
+        |     		Slc  Size: 0
+        |     		Addr Size: 10
+        |     		Din  Size: 16 (W)
+        |     		Dout Size: 0
+        |     	Port 1 : 
+        |     		Slc  Size: 0
+        |     		Addr Size: 10
+        |     		Din  Size: 0
+        |     		Dout Size: 16 (RS)
+        |     	Array Depth 1024
+        |     	Array Width 16
+        | 
+        |   ----------------------------------------------
+        |   - Memory Instances processing                -
+        |   ----------------------------------------------
